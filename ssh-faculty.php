@@ -106,7 +106,7 @@
 
 <div class="card rteleft facultycard" style="height:260px; width:1000px;">
 <p style="float:center;"><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/amrit.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
-<p style="width:1000px;"><a href="manohar_vf.php" style="color:#3fada8; font-weight:600;" target="_blank">Amrit Srinivasan</a> <br/>Room No.  <br/>(R & D Block)<br/><br>Email: <a href="mailto:amrit@iiitd.ac.in" style="color:#3fada8;"> amrit@iiitd.ac.in</a><br>Contact: <br><br><a style="color: #3fada8;">Research Interests: </a> The comparative study of knowledge and culture; violence, civil society and the state; sustainability and lifestyle change; women's work, family and the professions; Information Technology and the Indian service economy.</p>
+<p style="width:1000px;"><a href="amrit.php" style="color:#3fada8; font-weight:600;" target="_blank">Amrit Srinivasan</a> <br/>Room No.  <br/>(R & D Block)<br/><br>Email: <a href="mailto:amrit@iiitd.ac.in" style="color:#3fada8;"> amrit@iiitd.ac.in</a><br>Contact: <br><br><a style="color: #3fada8;">Research Interests: </a> The comparative study of knowledge and culture; violence, civil society and the state; sustainability and lifestyle change; women's work, family and the professions; Information Technology and the Indian service economy.</p>
 </div>
 
 

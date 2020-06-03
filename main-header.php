@@ -58,8 +58,8 @@
                 <li><a href="ssh-tf.php">Members</a></li>
                 <li><a href="#">Students<span>&#x25B8;</span></a>
                   <ul class="itam-2">
-                        <li><a href="ssh-btech_students.php">Btech Students</a></li>
-                        <li><a href="ssh-phd_students.php">PHD Students</a></li>
+                        <li><a href="ssh-btech_students.php">Btech</a></li>
+                        <li><a href="ssh-phd_students.php">PHD</a></li>
                   </ul>
               </li>
     </ul>
@@ -80,19 +80,12 @@
         <li><a href="ssh-labs.php">Labs</a></li>
         <li><a href="#">Projects<span>&#x25B8;</span></a>
                   <ul class="itam-2">
-                        <li><a href="ssh-ongoingprojects.php">Online Projects</a></li>
-                        <li><a href="ssh-funded_projects.php">Funded Projects</a></li>
-                        <li><a href="ssh-internal_projects.php">Internal Projects</a></li>
+                        <li><a href="ssh-ongoingprojects.php">Online</a></li>
+                        <li><a href="ssh-funded_projects.php">Funded</a></li>
+                        <li><a href="ssh-internal_projects.php">Internal</a></li>
                   </ul>
               </li>
 
-      </ul>
-    </li>
-    <li ><a href="#">Alumni<span>&#x25BE;</span></a>
-      <ul>
-        <li><a href="ssh-btech_alumni.php">Students</a></li>
-        <li><a href="ssh-faculty_alumni.php">Faculty</a></li>
-        <li><a href="ssh-phd_alumni.php">PHD</a></li>
       </ul>
     </li>
     <li><a href="ssh-announcements.php">Announcements</a></li>
