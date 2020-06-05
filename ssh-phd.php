@@ -27,6 +27,7 @@ Scholars can be provided On-campus accommodation and personal work-
 stations. Provision to support research paper/poster presentations in national
 and international conferences is also available.
 
+<br><br>
 
 <?php include ('main-footer.php'); ?>
 	

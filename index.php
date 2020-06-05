@@ -9,8 +9,6 @@
     <br>
 	<div class="welcome">
        <!-- <h1>Welcome !</h1> -->
-        <p align="justify">The Department of Social Science and Humanities (SSH) at the Indraprastha Institute of Information Technology (IIIT Delhi) is home to a multi-disciplinary faculty offering courses and conducting research in Economics, Sociology and Psychology and also broader areas such as Liberal Arts, Communications and the Humanities.</p>
-		<p><a href="ssh-about.php">Read More...</a></p>
         <br>
     </div>
     <div class="container" style="width: 900px; height: 50px;margin-left: 20px;">
