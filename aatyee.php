@@ -118,33 +118,7 @@ Technological research in interventions would also be explored.<br/><br/>";
     }
     function button4()
     {
-    	echo "
-        <br><br><br>
-        <h3>Project Title:</h3>
-        <p align:'justify'>“Studying facial feature processing associated with the
-uncanny valley effect”</p>
-        <h3>Student leading the project:</h3>
-         <p align:'justify'>Ojasva Saxena<br>
-         BTech Computer Science and Social Sciences, 4 th Sememster
-         </p>
-         <br><br><br>
-         <h3>Project Title:</h3>
-        <p align:'justify'>“Neural correlates of attention in macaque visual cortex”</p>
-        <h3>Student leading the project:</h3>
-         <p align:'justify'>Bhavey Wadhwa<br>
-         BTech Computer Science and Mathematics, 4 th Sememster
-         </p>
-         <br><br><br>
-         <h3>Project Title:</h3>
-        <p align:'justify'>“Studying relationship between pupil dilation and attention
-in humans”</p>
-        <h3>Student leading the project:</h3>
-         <p align:'justify'>Ishaan Arora<br>
-         BTech Computer Science and Engineering, 4 th Sememster
-         </p>
-         <br><br><br>
-
-        ";
+    	echo "";
     }
     function button5()
     {

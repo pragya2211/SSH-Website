@@ -7,10 +7,6 @@
 <!--<div><a href="https://iiitd.ac.in/events/gisworkshop" target="_blank"><img src="./images/Training Course on Remote Sensing.jpg" title="SSH Department IIITD"/></a></div> -->
     <!--<div><a href="https://iiitd.ac.in/webstory/wpct" target="_blank"><img src="https://iiitd.ac.in/sites/default/files/images/events/wpctbanner.jpg" title="Workshop on Philosophy and Cyber-Technology, SSH Department IIITD"/></a></div> -->
     <br>
-	<div class="welcome">
-       <!-- <h1>Welcome !</h1> -->
-        <br>
-    </div>
     <div class="container" style="width: 900px; height: 50px;margin-left: 20px;">
     
     <input type="radio" id="i1" name="images" checked />
@@ -76,6 +72,12 @@
         </div>
     </div>  -->
 <br><br>
+<div class="welcome">
+       <!-- <h1>Welcome !</h1> -->
+        <p align="justify">The Department of Social Science and Humanities (SSH) at the Indraprastha Institute of Information Technology (IIIT Delhi) is home to a multi-disciplinary faculty offering courses and conducting research in Economics, Sociology and Psychology and also broader areas such as Liberal Arts, Communications and the Humanities.</p>
+        <p><a href="ssh-about.php">Read More...</a></p>
+        <br>
+    </div>
 <div style="clear:both;"></div>
 
 <div class="newsa" style="overflow:scroll;">

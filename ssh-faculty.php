@@ -3,7 +3,7 @@
 <div class="page">
 
 
-<h2>Full Time Faculty</h2>
+<h2><p style="margin-left: 460px;">Full Time Faculty</p></h2>
 
 <style>
 #pbox { width:25%; float:left; border:1px solid #ccc; padding:5px; margin:1px 20px 20px 1px; border-radius: 10px; box-shadow: 2px 5px #888888; height:320px; overflow:auto;}
@@ -97,16 +97,16 @@
 <p style="float:center;"><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/ratna-suri.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
 <p style="width:1000px;"><a href="ratan.php" style="color:#3fada8; font-weight:600;" target="_blank">Venkata Ratnadeep Suri</a><br/>Assistant Professor (SSH)<br/>Room No. B-204 <br/>(R & D Block)<br/><br>Email: <a href="ratan.suri@iiitd.ac.in"style="color:#3fada8;">ratan.suri@iiitd.ac.in</a><br/>Contact: 011 26907 445<br/><br/><a style="color: #3fada8;">Research Interests: </a> Knowledge work contexts, health contexts, information seeking, and the cognition of information </p>
 </div>
+</div>
 
 
 
-
-<h2> Visiting Faculty</h2>
+<h2> <p style="margin-left: 460px;">Visiting Faculty</p></h2>
 <div id="cards-container">
 
 <div class="card rteleft facultycard" style="height:260px; width:1000px;">
 <p style="float:center;"><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/amrit.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
-<p style="width:1000px;"><a href="amrit.php" style="color:#3fada8; font-weight:600;" target="_blank">Amrit Srinivasan</a> <br/>Room No.  <br/>(R & D Block)<br/><br>Email: <a href="mailto:amrit@iiitd.ac.in" style="color:#3fada8;"> amrit@iiitd.ac.in</a><br>Contact: <br><br><a style="color: #3fada8;">Research Interests: </a> The comparative study of knowledge and culture; violence, civil society and the state; sustainability and lifestyle change; women's work, family and the professions; Information Technology and the Indian service economy.</p>
+<p style="width:1000px;"><a href="manohar_vf.php" style="color:#3fada8; font-weight:600;" target="_blank">Amrit Srinivasan</a> <br/>Room No.  <br/>(R & D Block)<br/><br>Email: <a href="mailto:amrit@iiitd.ac.in" style="color:#3fada8;"> amrit@iiitd.ac.in</a><br>Contact: <br><br><a style="color: #3fada8;">Research Interests: </a> The comparative study of knowledge and culture; violence, civil society and the state; sustainability and lifestyle change; women's work, family and the professions; Information Technology and the Indian service economy.</p>
 </div>
 
 
@@ -132,6 +132,16 @@
 </div>
 </div>
 
+
+<h2><p style="margin-left: 460px;">Adjunct Faculty</p></h2>
+
+<div id="cards-container">
+
+<div class="card rteleft facultycard" style="height:260px; width:1000px;">
+<p style="float:center;"><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/atreyee.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
+<p style="width:1000px;"><a href="manohar_vf.php" style="color:#3fada8; font-weight:600;" target="_blank">Atreyee Bhattacharya</a><br/><br>Email: <a href="mailto:atreyee.bhattacharya@colorado.edu" style="color:#3fada8;">atreyee.bhattacharya@colorado.edu</a><br>Website: <a href="https://atreyeebhattacharya.typepad.com/atreyee_bhattacharya/" style="color:#3fada8 ">https://atreyeebhattacharya.typepad.com/atreyee_bhattacharya/</a><br><br><br><a style="color: #3fada8;">Research Interests: </a> Climate variability of arid and semi-arid regions, historical climate, paleoclimate, coastal erosion using corals and microplastic accumulation in coastal environments.</p>
+</div>
+</div>
 
 	<?php include ('main-footer.php'); ?>
 	

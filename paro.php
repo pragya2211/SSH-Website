@@ -95,19 +95,55 @@ Haryana. Economic &amp;Political Weekly 158 (35): 70-78.<br/><br/>";
     function button3()
     {
     	echo "<br/><br/><br/><u><i>1.Contemporary India: Sociological Perspective</i></u><br/><br/><br>Semester: Monsoon<br>Credits:4<br>Code:SOC202<br>
-<br/><br/><br/><br/>
+<br/>
+This course will systematically familiarize students with some of the important vignettes of a
+complex and highly diverse country–India.  Using a historically contextualized approach to
+understand the shaping of ‘contemporary’, this course will provide an overview of the
+functioning and transformation of India in the face of global social change. Grounded in
+sociology but drawing upon recent developments in the other social sciences as well, this
+course will critically examine the transformations in India’s social, cultural, political,
+economic and technological realms and will critically interrogate the developmental issues
+and fault lines facing Indian society both from the vantage point of contemporary and
+indigenous sociological theory.
+<br/><br/><br/>
 
 <u><i>2. Starting a Venture:</i></u><br/><br/><br>Semester: Summer Term<br>Credits:4<br>Code:ENT403<br>
 Co-taught with Anupam Saronwala and Alok Nikhil Jha<br/><br/><br/><br/>
 
 <u><i>3. Introduction to Sociology and Anthropology:</i></u><br/><br/><br>Semester: Winter<br>Credits:4<br>Code:SOC101<br>
-<br/><br/><br/><br/>
+<br/>
+Who has the solution to ‘big problems’ like violent crimes, cybersecurity, environmental
+degradation, HIV or Ebola crisis and population explosion? If you think the answer is only
+scientists and government , you are mistaken. In the contemporary world social scientists
+are actively engaged in solving many of these issues along with scientists and the divide
+between social sciences and STEM disciplines is becoming a thing of the past. In United
+Kingdom for example, the defence ministry uses social scientists as think tanks to
+understand defence and security challenges. In Africa, the fight against Ebola involved
+medical sociologists and anthropologists providing data to medical fraternity on community
+hygiene practices and sanitary behaviours. In India and China, social anthropologists have
+been critical to formulation of regulations regarding population policies and new
+reproductive technologies. To benefit more from these exchanges and engagements, it is
+important for budding engineers to understand what is sociology and social anthropology,
+what is its subject matter and how can these disciplines be strategically used for finding
+solutions to larger societal issues. This introductory course is mandated to introduce
+learners from diverse academic and social backgrounds to the discipline of Sociology and
+anthropology. It is intended to make learners understand the fundamental relationship
+between individual, culture and society. The course will help them develop a sociological
+perspective by focussing on foundational sociological/anthropological concepts such as
+social structure, organization,  institutions, status and roles, social change and social
+problems. All these key terms would be examined with reference to modern social theories
+and methods. These concepts will then be used to analyse observable social phenomenon
+like class inequality,  discrimination, ethnic an communal conflicts, poverty, health and
+illness, crime, globalization and consumption among others, to help learners develop a
+sociological understanding of the world we inhabit.<br/><br/><br/>
 ";
 
     }
     function button4()
     {
-    	echo "<br/><br/><br/><b><i><u>IP supervision:</i></u><br><br><br> i)Monsoon 2019, Analysing Behaviour of Female Politicians on Twitter.<br><br><br/><br/>
+    	echo "<br/><br/><br/><b><i><u>IP supervision:</i></u><br><br><br> i)Monsoon 2019, Analysing Behaviour of Female Politicians on Twitter.<br><br>
+            ii)Winter 2020, Sampann: A Well-being App.
+        <br/><br/><br><br>
 
 <b><i><u>BTP supervision:</b></u></i><br/><br/><br/>
 i)Monsoon 2019, fINC<br><br>";

@@ -11,33 +11,89 @@
     <link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
     <!--<link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>-->
 </head>
-<style>
-            *{margin: 0; padding: 0;}
-            nav{width: 2000px;margin: auto;}
-            
-            ul{list-style: none;}
-            
-            ul li{ width: 140px; background: #3fada8; float: left; height: 30px; line-height: 35px; text-align: center; margin-right: 2px; position: relative;}
-            
-            ul li:hover{ background: gray;}
-            
-            ul li a{color: #fff; text-decoration: none; font-variant:small-caps; display: block;}
-            
-            ul li ul li{ border-top: 1px solid #fff;}
-            
-            ul li ul{display: none;}
-            
-            ul li:hover ul{ display: block;}
-            
-            ul li ul .itam-2{position: absolute; left: 122px; top: 0; display: none;}
-            
-            ul li ul li:last-child:hover .itam-2{display: block;}
-            
-            section{width: 800px; margin: auto; clear: both; background: #e1e1e1;}
-            
-            
-            
-        </style>
+    <style>
+                
+        #menu
+        {
+            z-index: 1000;
+    position: relative;
+            width: 2000px;
+
+
+        }
+        #menu > ul
+        {
+            background: #3fada8;
+
+        }
+        #menu ul
+        {
+            list-style: none;
+            position: relative;
+            margin: 0;
+            padding: 0;
+            float: left;
+
+        }
+        #menu ul a
+        {
+            color: #fff;
+            text-decoration: none;
+            font-size: 15px;
+            line-height: 45px;
+            padding: 0 15px;
+            display: block;
+        }
+        #menu ul li
+        {
+            width: 160px;
+            height: 40px;
+            line-height: 45px;
+            float: left;
+            position: relative;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            font-variant:small-caps;
+            border: 0.5px solid #fff;
+        }
+        #menu ul li:hover
+        {
+            background: #95a5a6;
+        }
+        #menu ul ul
+        {
+            position: absolute;
+            background: #7f8c8d;
+            top: 100%;
+            left: 0;
+            display: none;
+
+        }
+        #menu ul ul li
+        {
+            float: none;
+            width: 160px;
+        }
+        #menu ul ul li:hover
+        {
+            border-left: 1px;
+        }
+        #menu ul ul ul 
+        {
+            top: 0px;
+            left: 100%;
+
+        }
+        #menu ul li:hover > ul
+        {
+            display: block;
+
+        }
+
+                
+                
+    </style>
 <body>
 
     <div class="cselogo">
@@ -45,118 +101,68 @@
     </div>
     
     <div class="top_links"><h1><a style="color: #3fada8" href="./index.php">Department Of Social Sciences and Humanities</a> </h1></div>
-<nav>
-    <ul>
-        <li><a href="./index.php">Home<span>&#x25BE;</span> </a> 
-            <ul>
-                <li><a href = "ssh-about.php">About us</a></li>
-              </ul>
+
+
+
+    <div id = "menu">
+        <ul>
+            <li><a href="./index.php">Home<span>&#x25BE;</span> </a> 
+                <ul>
+                    <li><a href = "ssh-about.php">About us</a></li>
+                  </ul>
+            </li>
+            <li><a href="#">People <span>&#x25BE;</span></a>
+                <ul>
+                    <li><a href="#">Faculty<span>&#x25B8;</span></a>
+                      <ul class="itam-2">
+                            <li><a href="ssh-ff.php">Full Time</a></li>
+                            <li><a href="ssh-vf.php">Visiting</a></li>
+                            <li><a href="ssh-af.php">Adjunct</a></li>
+                      </ul>
+                  </li>
+                  <li><a href="#">Students<span>&#x25B8;</span></a>
+                      <ul class="itam-2">
+                            <li><a href="ssh-btech_students.php">Btech Students</a></li>
+                            <li><a href="ssh-phd_students.php">PHD Students</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="ssh-tf.php">Members</a></li>
+                    
+            </ul>
         </li>
- <li><a href="#">People <span>&#x25BE;</span></a>
-  <ul>
-                <li><a href="ssh-faculty.php">Faculty</a></li>
-                <li><a href="ssh-tf.php">Members</a></li>
-                <li><a href="#">Students<span>&#x25B8;</span></a>
-                  <ul class="itam-2">
-                        <li><a href="ssh-btech_students.php">Btech</a></li>
-                        <li><a href="ssh-phd_students.php">PHD</a></li>
-                  </ul>
-              </li>
-    </ul>
-  </li>
+        <li ><a href="#">Programs<span>&#x25BE;</span></a>
+          <ul>
+            <li><a href="ssh-btech.php">Undergraduate</a></li>
+            <li><a href="ssh-courses.php">Courses</a></li>
+            <li><a href="ssh-phd.php">PHD</a></li>
+          </ul>
+        </li>
+        <li ><a href="#">Research<span>&#x25BE;</span></a>
+          <ul>
+            <li><a href="#">Projects<span>&#x25B8;</span></a>
+                      <ul class="itam-2">
+                            <li><a href="ssh-ongoingprojects.php">Online Projects</a></li>
+                            <li><a href="ssh-funded_projects.php">Funded Projects</a></li>
+                            <li><a href="ssh-internal_projects.php">Internal Projects</a></li>
+                      </ul>
+                  </li>
+            <li><a href="ssh-pub.php">Publications</a></li>
+            <li><a href="ssh-labs.php">Labs</a></li>
+            
 
-
-    
-    <li ><a href="#">Programs<span>&#x25BE;</span></a>
-      <ul>
-        <li><a href="ssh-btech.php">Undergraduate</a></li>
-        <li><a href="ssh-courses.php">Courses</a></li>
-        <li><a href="ssh-phd.php">PHD</a></li>
-      </ul>
-    </li>
-    <li ><a href="#">Research<span>&#x25BE;</span></a>
-      <ul>
-        <li><a href="ssh-pub.php">Publications</a></li>
-        <li><a href="ssh-labs.php">Labs</a></li>
-        <li><a href="#">Projects<span>&#x25B8;</span></a>
-                  <ul class="itam-2">
-                        <li><a href="ssh-ongoingprojects.php">Online</a></li>
-                        <li><a href="ssh-funded_projects.php">Funded</a></li>
-                        <li><a href="ssh-internal_projects.php">Internal</a></li>
-                  </ul>
-              </li>
-
-      </ul>
-    </li>
-    <li><a href="ssh-announcements.php">Announcements</a></li>
-    <li><a href="ssh-contact.php">Contact us</a></li>
+          </ul>
+        </li>
+       
+        <li><a href="ssh-announcements.php">Announcements</a></li>
+        <li><a href="ssh-contact.php">Contact us</a></li>
   </ul>
-</nav>
-<br>
-<br>
-    <!--<li class="dropdown"><a href="#" class="dropbtn">Teaching &#9663</a>
-    <div class="dropdown-content">
-                <a href="ssh-courses.php">Courses</a>
-                <a href="ssh-scp.php">Student Conduct Policy</a>
-        <a href="ssh-sc.php">Student Club</a>
-            </div> 
-    </li>
-    <li class="dropdown"><a href="#" class="dropbtn">Research &#9663</a>
-    <div class="dropdown-content">
-                <a href="ssh-rd.php">Research Directions</a>
-                <a href="ssh-pub.php">Recent Publications</a>
-        <a href="ssh-thesis.php">Thesis Defense</a>
-        <a href="ssh-ongoingprojects.php">On-going Projects</a>
-            </div>
-    </li>
-    <li class="dropdown"><a href="#" class="dropbtn">Latest news &#9663</a>
-    </li>
-    <li class="dropdown"><a href="#" class="dropbtn">Internal Links &#9663</a>
-    </li> -->
-    
-    
-    <!--<li class="dropdown"><a href="#" class="dropbtn">Academics &#9663</a>
-            <div class="dropdown-content">
-                <a href="cse-btech.php">BTech</a>
-        <a href="cse-mtech.php">MTech</a>
-                <a href="cse-phd.php">PhD</a>
-                
-            </div>
-        </li>
-    <li class="dropdown"><a href="#" class="dropbtn">Teaching &#9663</a>
-            <div class="dropdown-content">
-                <a href="cse-courses.php">Courses</a>
-                <a href="cse-scp.php">Student Conduct Policy</a>
-        <a href="cse-sc.php">Student Club</a>
-            </div> 
-        </li> 
-    
-        <li class="dropdown"><a href="#" class="dropbtn">Research &#9663</a>
-            <div class="dropdown-content">
-               <a href="cse-pub.php">Recent Publication</a>
-         <a href="cse-thesis.php">Thesis Defence</a>
-         <a href="cse-rlabs.php">Research Labs</a>
-         <a href="cse-ketchup.php">CSE Ketchup</a>
-                                                       
-            </div>
-        </li>
+  <br><br>
+</div>
+</body>
 
-        
-<li class="dropdown"><a href="#" class="dropbtn">Latest News &#9663</a>
-            <div class="dropdown-content">
-                <a href="cse-keynotes.php">Keynotes</a>
-        <a href="cse-awards.php">Awards</a>
-        <a href="cse-vtalks.php">Visitor Talks</a>
-                
-            </div>
-        </li>
-        
-        <li class="dropdown"><a href="#" class="dropbtn">Internal Links &#9663</a>
-            <div class="dropdown-content">
-                <a href="cse-commite.php">Committees</a>
-                
-            </div>
-        </li> -->
+
+
+
  <style type="text/css">
 .select
 {

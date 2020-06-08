@@ -36,10 +36,11 @@
 
 <?php include ('main-header.php'); ?>
 <div class="page">
-<h2> Amrit Srinivasan </h2>
+<h2> Gaurav Arora </h2>
 <br/>
-<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/amrit.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-<p style="margin-left: 200px"><br></p>
+<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/gaurava.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
+<p style="margin-left: 200px"><br>
+The comparative study of knowledge and culture; violence, civil society and the state; sustainability and lifestyle change; women's work, family and the professions; Information Technology and the Indian service economy.</p>
     
     <form method="post"> 
           
