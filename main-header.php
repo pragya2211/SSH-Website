@@ -126,7 +126,12 @@
                             <li><a href="ssh-phd_students.php">PHD Students</a></li>
                         </ul>
                     </li>
-                    <li><a href="ssh-tf.php">Members</a></li>
+                    <li><a href="#">Members<span>&#x25B8;</span></a>
+                      <ul class="itam-2">
+                            <li><a href="ssh-ra.php">Teaching Fellows</a></li>
+                            <li><a href="ssh-tf.php">Research Associates</a></li>
+                      </ul>
+                  </li>
                     
             </ul>
         </li>
