@@ -6,48 +6,76 @@
 	<h1>
 	Labs
 </h1> 
-<p align="justify">The Department of Social Science and Humanities (SSH) at the Indraprastha Institute of Information Technology (IIIT Delhi) is home to a multi-disciplinary faculty offering courses and conducting research in Economics, Sociology and Psychology and also broader areas such as Liberal Arts, Communications and the Humanities.<br/></p>    
 
 
-<div style="font-size:130%;
-    padding-top:5px;
-    padding-bottom:5px;
-    color:#3fada8;"><a style="color: #3fada8" href="ssh-econometrics_labs.php">Econometrics Lab</a>
-</div>
-<p align="justify">The Econometrics Lab is a computing environment for faculty and students of IIIT-
-Delhi. The lab is meant to provide instruction in econometric methods and
+
+<div >
+
+<div > 
+<p style="float:left;"><strong><img alt="" src="./images/econometrics-lab.png" style="float:left;height:220px; border:1px solid; padding:2px;" /></strong></p>
+<br>
+<p align="right">
+<a href="ssh-econometrics_labs.php" style="color:#3fada8; font-weight:600; font-size: 30px" target="_blank">Econometrics Lab</a>
+</p>
+<p align="right" style="width:950px;margin-right: 1000px;font-size: 16px; word-spacing: 1.5px;"><br/>
+    The lab is meant to provide instruction in econometric methods and
 applications at undergraduate and graduate level, and to provide infrastructure for
 applied economics researchers who work with data and use tools like econometric
-modeling, spatial analysis, and satellite image processing.</p>
-
-<div style="font-size:130%;
-    padding-top:5px;
-    padding-bottom:5px;
-    color:#3fada8;"><a style="color: #3fada8" href="ssh-gametheory_lab.php">Game Theory Lab</a></div>
-<p align="justify">The Department of Social Science and Humanities (SSH) at the Indraprastha Institute of Information Technology (IIIT Delhi) is home to a multi-disciplinary faculty offering courses and conducting research in Economics, Sociology and Psychology and also broader areas such as Liberal Arts, Communications and the Humanities.</p>
-
-<div style="font-size:130%;
-    padding-top:5px;
-    padding-bottom:5px;
-    color:#3fada8;"><a style="color: #3fada8" href="ssh-3_lab.php">Lab III</a></div>
-<p align="justify">The Department of Social Science and Humanities (SSH) at the Indraprastha Institute of Information Technology (IIIT Delhi) is home to a multi-disciplinary faculty offering courses and conducting research in Economics, Sociology and Psychology and also broader areas such as Liberal Arts, Communications and the Humanities.</p>
-
-<div style="font-size:130%;
-    padding-top:5px;
-    padding-bottom:5px;
-    color:#3fada8;"><a style="color: #3fada8" href="ssh-qualitative_lab.php">Cognitive Science Lab</a></div>
-<p align="justify">Cognitive Science is the study of the mind and intelligence, and shares rich
+modeling, spatial analysis, and satellite image processing.</a>
+</p>
+</div>
+<br><br><br><br><br><br><br><br>
+<div>
+    <p style="float:right;"><strong><img alt="" src="./images/econometrics-lab.png" style="float:right;height:220px; border:1px solid; padding:2px;" /></strong></p>
+<br>
+<p align="left">
+<a href="ssh-gametheory_lab.php" style="color:#3fada8; font-weight:600; font-size: 30px" target="_blank">Game Theory Lab</a>
+</p>
+<p align="left" style="width:950px;font-size: 16px; word-spacing: 1.5px;"><br/>
+    The Game Theory and Market Design Lab was set up for research in decision sciences, behavioural economics and game theory. It supports computational research that makes use of mathematical and statistical modelling software, as well as experimental research that is directed towards studying behaviour.</a>
+</p>
+</div>
+<br><br><br><br><br><br><br><br>
+<div > 
+<p style="float:left;"><strong><img alt="" src="./images/econometrics-lab.png" style="float:left;height:220px; border:1px solid; padding:2px;" /></strong></p>
+<br>
+<p align="right">
+<a href="ssh-3_lab.php" style="color:#3fada8; font-weight:600; font-size: 30px" target="_blank">Lab III</a>
+</p>
+<p align="right" style="width:950px;margin-right: 1000px;font-size: 16px; word-spacing: 1.5px;"><br/>
+    The Department of Social Science and Humanities (SSH) at the Indraprastha Institute of Information Technology (IIIT Delhi) is home to a multi-disciplinary faculty offering courses and conducting research in Economics, Sociology and Psychology and also broader areas such as Liberal Arts, Communications and the Humanities.</a>
+</p>
+</div>
+<br><br><br><br><br><br><br><br>
+<div>
+    <p style="float:right;"><strong><img alt="" src="./images/econometrics-lab.png" style="float:right;height:220px; border:1px solid; padding:2px;" /></strong></p>
+<br>
+<p align="left">
+<a href="ssh-qualitative_lab.php" style="color:#3fada8; font-weight:600; font-size: 30px" target="_blank">Cognitive Science Lab</a>
+</p>
+<p align="left" style="width:950px;font-size: 16px; word-spacing: 1.5px;"><br/>
+    Cognitive Science is the study of the mind and intelligence, and shares rich
 interdisciplinarity across Psychology, Neuroscience, Computer Science, Linguistics,
 Anthropology, Philosophy, Education and Media Studies. The overarching goals of
 Cognitive Science is to understand and model the mind and its processes like attention,
 memory, executive functions by utilizing ideas and approaches from these
-complementary disciplines.</p>
+complementary disciplines.</a>
+</p>
+</div>
+<br><br><br><br><br>
+<div > 
+<p style="float:left;"><strong><img alt="" src="./images/econometrics-lab.png" style="float:left;height:220px; border:1px solid; padding:2px;" /></strong></p>
+<br>
+<p align="right">
+<a href="https://academicwriting.herokuapp.com/" style="color:#3fada8; font-weight:600; font-size: 30px" target="_blank">Writing Lab</a>
+</p>
+<p align="right" style="width:950px;margin-right: 1000px;font-size: 16px; word-spacing: 1.5px;"><br/>
+  The Academic Writing Program is an important constituent of IIIT Delhi and is housed in the writing lab within the SSH department. It will primarily provide writing assistance to all University divisions, schools, and academic and administrative programs.</a>
+</p>
+</div>
+</div>
 
-<div style="font-size:130%;
-    padding-top:5px;
-    padding-bottom:5px;
-    color:#3fada8;"><a style="color: #3fada8" href="ssh-writing_lab.php">Writing Lab</a></div>
-<p align="justify">The Department of Social Science and Humanities (SSH) at the Indraprastha Institute of Information Technology (IIIT Delhi) is home to a multi-disciplinary faculty offering courses and conducting research in Economics, Sociology and Psychology and also broader areas such as Liberal Arts, Communications and the Humanities.</p>
+
    
 <?php include ('main-footer.php'); ?>
 </div><!--content End-->
