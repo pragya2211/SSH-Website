@@ -40,7 +40,8 @@
 <h2> Manohar Kumar </h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/Manohar-Kumar.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-<p style="margin-left: 200px">Assistant Professor<br>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+<p style="margin-left: 200px">
 Manohar Kumar completed his PhD in Political Theory from LUISS University, Rome in 2013. He
 has a Masters in Development Studies from Tata Institute of Social Sciences, Mumbai and a
 Bachelors in Economics from Hindu College, University of Delhi. He is the author of  ‘Speaking
@@ -48,7 +49,7 @@ Truth to Power. A Theory of Whistleblowing’ with Daniele Santoro. Prior to jo
 Manohar held postdoctoral fellowships at IIT Delhi (2015-2017) and AMSE, Aix Marseille
 University (2017-2018). His research interests are in Moral and Political Philosophy,  and
 include issues like whistleblowing, civil disobedience, democratic secrecy, and epistemic
-injustice, surveillance, digital citizenship and dissent.<br><br> Websie: <a href="https://iiitd.academia.edu/ManoharKumar" style="color: #3fada8;">https://iiitd.academia.edu/ManoharKumar</a><br><br></p>
+injustice, surveillance, digital citizenship and dissent.<br><br> Website: <a href="https://iiitd.academia.edu/ManoharKumar" style="color: #3fada8;">https://iiitd.academia.edu/ManoharKumar</a><br><br></p>
     
     <form method="post"> 
       

@@ -18,10 +18,15 @@
 
 <div id="cards-container">
 
-<div class="card rteleft facultycard" style="height:260px; width:1000px;">
-<p style="float:center;"><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/atreyee.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
-<p style="width:1000px;"><a style="color:#3fada8; font-weight:600;" target="_blank">Atreyee Bhattacharya</a><br/><br><br>Email: <a href="mailto:atreyee.bhattacharya@colorado.edu" style="color:#3fada8;">atreyee.bhattacharya@colorado.edu</a><br><br>Website: <a href="https://atreyeebhattacharya.typepad.com/atreyee_bhattacharya/" style="color:#3fada8 ">https://atreyeebhattacharya.typepad.com/atreyee_bhattacharya/</a><br><br><a style="color: #3fada8;">Research Interests: </a> Climate variability of arid and semi-arid regions, historical climate, paleoclimate, coastal erosion using corals and microplastic accumulation in coastal environments.</p>
+
+<div class="card rteleft facultycard" style="height:260px; width:1000px;"> 
+<p style="float:left;"><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/atreyee.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
+
+<h2><a href="" style="color:#3fada8; font-weight:600;" target="_blank"> Atreyee Bhattacharya</a></h2>
+<p style="font-size: 16px;"><br>Email: <a href="mailto:atreyee.bhattacharya@colorado.edu" style="color:#3fada8;">atreyee.bhattacharya@colorado.edu</a><br><br>Website: <a href="https://atreyeebhattacharya.typepad.com/atreyee_bhattacharya/" style="color:#3fada8 ">https://atreyeebhattacharya.typepad.com/atreyee_bhattacharya/</a><br><br><a style="color: #3fada8;">Research Interests: </a> Climate variability of arid and semi-arid regions, historical climate, paleoclimate, coastal erosion using corals and microplastic accumulation in coastal environments. <br><br></p>
 </div>
+
+
 </div>
 
 	<?php include ('main-footer.php'); ?>

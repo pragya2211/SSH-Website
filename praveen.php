@@ -38,8 +38,9 @@
 <div class="page">
 <h2> Praveen Priyadarshi </h2>
 <br/>
-<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/praveen.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-<p style="margin-left: 200px">Assistant Professor<br>
+<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/praveen.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong></p>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+<p style="margin-left: 200px">
 Political Science, London
 Dr. Praveen Priyadarshi completed his PhD in Development Studies from London School of Economics and Political Science (LSE), London. His academic interest lies at the intersections of the categories of space, institutions and policy especially in the urban context. He brings these categories to bear upon his understanding of contemporary politics in India and the Global South. Before joining us, Praveen has been an Assistant Professor in the Department of Political Science, Zakir Husain Delhi College, Evening, University of Delhi (DU). His publications include papers in Economic and Political Weekly (EPW) and a co-edited book from Pearson Longman, titled Contemporary India: Economy, Society, Politics. He has been an Associate at the Crisis States Research Centre, LSE, and at the Developing Countries Research Centre (DCRC), University of Delhi. He was the Tata PhD Fellow at the Asia Research Centre (ARC), at the London School of Economics.<br><br></p>
     

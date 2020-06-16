@@ -38,7 +38,8 @@
 <div class="page">
 <h2> Aasim Khan</h2>
 <br/>
-<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/aasim.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
+<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/aasim.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong></p>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
     <p style="margin-left: 200px">Professor at the Department of Social Sciences and Humanities,
 IIIT-Delhi. As a social scientist he has cross-disciplinary interests in theories of social
 media, social networks and big data. His research themes concern the concomitant rise of

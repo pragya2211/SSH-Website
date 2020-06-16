@@ -38,8 +38,9 @@
 <div class="page">
 <h2> Smriti Singh </h2>
 <br/>
-<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/smriti.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-<p style="margin-left: 200px;">Assistant Professor<br>
+<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/smriti.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong>     </p>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+<p style="margin-left: 200px;">
 Dr. Smriti Singh has completed her PhD from the Jawaharlal Nehru University, New Delhi in 2017. She has been interested in the broad area of Urban Sociology and Social Class. She has earned her M.Phil. and Postgraduate degree from Jawaharlal Nehru University, New Delhi and her Undergraduate degree from Lady Shri Ram College for Women, Delhi University. She is a Nehru-Fulbright Doctoral Scholar, 2015-2016 to University of Michigan, Ann Arbor, Michigan. She has previously taught at Ambedkar University, Delhi; Azim Premji University, Bengaluru; and Lady Shri Ram College for Women, Delhi University.
 <br><br>
 She has been UNICEF-KCCI intern, 2009 and has worked briefly with Katha, New Delhi and Butterflies, New Delhi. She has presented at various national and international conferences and has periodically endured the heartache of editorial and peer review. Her current research interest is in the broad areas of social media, information technology and urban middle class; virtual community and solidarity and; privacy, surveillance and technology. She prides herself in being a learner and an educator and is always psyched at the prospect of research suggestions and discussions over copious cups of tea-coffee. </p>

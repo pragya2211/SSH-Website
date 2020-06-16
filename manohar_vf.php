@@ -39,6 +39,7 @@
 <h2> Manohar Khushalani </h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/manohar.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
     <p style="margin-left: 200px">Manohar Khushalani, a Visiting Professor at IIIT, Delhi. The courses he teaches are: Animation
 &amp; Graphics, Film Making  Radio Podcasting and Theatre Appreciation. He has won Excellence in
 Teaching awards for all the courses he has taught at IIITD. Overall he has received 9 teaching
@@ -135,20 +136,20 @@ d. Vyshakh<br><br>";
     }
     function button5()
     {
-    	echo "<b></b></u><br><br><br>A)Directors Meet, Bharat Rang Mahotsav, NSD
+    	echo "<b></b></u><br><br><br>A) Directors Meet, Bharat Rang Mahotsav, NSD
 
-3rd February 2020 Onwards
-       b. Brief description about the event
+3rd February 2020 Onwards<br>
 Bharat Rang Mahotsav is the annual International Theatre Festival of NSD. Director’s
 Meet is conducted by well known Theatre Critics of India. It’s a daily seminar in which Director’s of the
 plays, performed at the festival are interviewed on stage and their show is analysed and assessed by
 the critic. The audience consists of general public and studends of NSD. <br>Source of funding: NSD<br><br>
-B)Short Term Certificate Course in Documentary and Ethnographic Filmmaking at IGNCA 
+B) Short Term Certificate Course in Documentary and Ethnographic Filmmaking at IGNCA <br>
 Saturday/ January 4 - 2pm to 5 pm
 Introduction to post production 
 Sunday/ January 5- 2 pm to 5 pm 
 In- camera edit- opportunities and challenges 
-Funding IGNCA<br><br>C)Short Term Certificate Course in Film Scripting at IGNCA
+Funding IGNCA<br><br>
+C) Short Term Certificate Course in Film Scripting at IGNCA
 Tuesday / December 17 History of Film Editing
 Wednesday / December 18 Mime Theory and Practice
 Funding IGNCA";

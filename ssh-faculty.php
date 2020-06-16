@@ -18,7 +18,9 @@
 
 <div class="card rteleft facultycard" style="height:260px; width:1000px;"> 
 <p style="float:left;"><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/Manohar-Kumar.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
-<p style="width:1000px;"><a href="manohar.php" style="color:#3fada8; font-weight:600;" target="_blank">Manohar Kumar</a><br/>Head, Assistant Professor <br/>Room No. B-207 <br/>(R & D Block)<br/><br>Email: <a href="mailto:manohar.kumar@iiitd.ac.in" style="color:#3fada8;"> manohar.kumar@iiitd.ac.in</a><br>Contact: 011 26907 557<br><br><a style="color: #3fada8;">Research Interests: </a> Ethics of digital dissent, digital citizenship, whistleblowing, civil disobedience, secrecy, and epistemic injustice.</p>
+
+<p style="float: center;"><h2><a href="manohar.php" style="color:#3fada8; font-weight:600;" target="_blank">Manohar Kumar</a></h2><br/>Head, Assistant Professor<br>Room No. B-207 <br/>(R & D Block)<br/><br>Email: <a href="mailto:manohar.kumar@iiitd.ac.in" style="color:#3fada8;"> manohar.kumar@iiitd.ac.in</a><br>Contact: 011 26907 557<br><br><a style="color: #3fada8;"></p>
+<p style="float: right;">Research Interests: </a> Ethics of digital dissent, digital citizenship, whistleblowing, civil disobedience, secrecy, and epistemic injustice.</p>
 </div>
 
 

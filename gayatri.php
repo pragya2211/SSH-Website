@@ -39,7 +39,8 @@
 <h2> Gayatri Nair </h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/gayatri.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
- <p style="margin-left: 200px">Assistant Professor<br>PhD (2016), Jawaharlal Nehru University, New Delhi<br>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+ <p style="margin-left: 200px">PhD (2016), Jawaharlal Nehru University, New Delhi<br>
 Gayatri received her M.Phil (2012) and PhD (2016) in Sociology from the Centre for the Study of Social Systems, Jawaharlal Nehru University, New Delhi. Her research interests lie in urban informal labour and livelihood patterns with an emphasis on the question of technology, caste and gender. With a focus on political economy, she has published work examining the links between caste, gender and cultures of modernity, working caste lives and popular culture. She is currently in the process of converting her doctoral research on the Koli fishing community and the movement for rights to livelihood in Mumbai into a book.<br><br><br><br> </p>
     
     <form method="post"> 

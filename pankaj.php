@@ -40,6 +40,7 @@
 <h2> Pankaj Vajpayee </h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="./images/Pankaj.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
 <p style="margin-left: 200px">27 years’ experience in Investment Banking and Investment Advisory. Had earlier worked with
 companies like SBI Capital Markets, Dabur Group, Onida group and India Infoline Group.<br><br><br>
 Experience in the following areas:<br><br>

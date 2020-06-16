@@ -39,7 +39,8 @@
 <h2> Kiriti Kanjilal </h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/kanjilal.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-    <p style="margin-left: 200px">Assistant Professor (SSH)<br>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+    <p style="margin-left: 200px">
 PhD (2018), Economics at Washington State University<br>
 Kiriti Kanjilal completed his 5 year Integrated Masters in Economics at the University of Hyderabad in
 2013 and defended his PhD in Economics at Washington State University in May 2018. His dissertation

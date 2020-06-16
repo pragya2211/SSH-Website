@@ -39,7 +39,8 @@
 <h2> Mrinmoy Chakrabarty </h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/mrinmoy.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-    <p style="margin-left: 200px">Assistant Professor<br>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+    <p style="margin-left: 200px">
 Dr. Mrinmoy Chakrabarty carried out his doctoral research with a fellowship from the Interdisciplinary Program
 for Biomedical Sciences of Osaka University, Japan and earned his Ph.D. with Distinction at Osaka University
 Graduate School of Medicine in March 2017. He was a Post-Doctoral Research Fellow in the Dept. of

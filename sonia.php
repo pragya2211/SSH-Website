@@ -38,9 +38,10 @@
 <div class="page">
 <h2> Sonia Baloni Ray  </h2>
 <br/>
-<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/sonia.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-<p style="margin-left: 200px">Assistant Professor<br>
-PhD (2012), Georg August University, Goettingen, Germany<br>Dr. Sonia Baloni Ray is a Ph.D. degree holder from German Primate Center, Georg August University, Goettingen, Germany in 2012. She did her post-doctoral research at Centre of Behavioural and Cognitive Science, University of Allahabad. During her post-doctoral tenure she received DST-CSRI (Department of Science and Technology, Govt. Of India- Cognitive Science Research Initiative) fellowship. She is interested in studying the mechanisms of attention that are involved in the processing of visual information in our surrounding. She has experience in psychophysics, EEG and eye-tracking methodologies.<br><br> Websie: <a href="https://sites.google.com/iiitd.ac.in/sonia-baloni-ray/home" style="color: #3fada8;">https://sites.google.com/iiitd.ac.in/sonia-baloni-ray/home</a><br><br><br></p>
+<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/sonia.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong>     </p>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+<p style="margin-left: 200px">
+PhD (2012), Georg August University, Goettingen, Germany<br>Dr. Sonia Baloni Ray is a Ph.D. degree holder from German Primate Center, Georg August University, Goettingen, Germany in 2012. She did her post-doctoral research at Centre of Behavioural and Cognitive Science, University of Allahabad. During her post-doctoral tenure she received DST-CSRI (Department of Science and Technology, Govt. Of India- Cognitive Science Research Initiative) fellowship. She is interested in studying the mechanisms of attention that are involved in the processing of visual information in our surrounding. She has experience in psychophysics, EEG and eye-tracking methodologies.<br><br> Website: <a href="https://sites.google.com/iiitd.ac.in/sonia-baloni-ray/home" style="color: #3fada8;">https://sites.google.com/iiitd.ac.in/sonia-baloni-ray/home</a><br><br><br></p>
     
     <form method="post"> 
        <input type="submit" name="button2"

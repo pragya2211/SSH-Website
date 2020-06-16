@@ -39,6 +39,7 @@
 <h2> Shweta Singh </h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/shweta.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
 <p style="margin-left: 200px">Currently a Lecturer of Philosophy at IIIT-Delhi<br><br><br><br><br><br><br><br><br><br><br></p>
     
     <form method="post"> 

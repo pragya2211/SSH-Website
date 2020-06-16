@@ -39,12 +39,13 @@
 <h2>Souvik Dutta </h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/souvik.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-<p style="margin-left: 200px">Assistant Professor<br>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+<p style="margin-left: 200px">
 Dr. Souvik Dutta joined SSH in Dec 2019 as Assistant Professor in Economics. He uses
 both analytical modelling and econometrics in his research. Some of his current areas
 of interest are in the fields of political economy, microfinance and economics of digital
 marketing. Before joining IIIT-D, Souvik was a faculty at Indian Institute of Management,
-Bangalore.<br><br> Websie: <a href="https://souvikdutta.weebly.com/" style="color: #3fada8;">https://souvikdutta.weebly.com/</a><br><br><br><br><br></p>
+Bangalore.<br><br> Website: <a href="https://souvikdutta.weebly.com/" style="color: #3fada8;">https://souvikdutta.weebly.com/</a><br><br><br><br><br></p>
     
     <form method="post"> 
         <input type="submit" name="button2"

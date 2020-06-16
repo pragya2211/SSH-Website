@@ -7,7 +7,7 @@
 <!--<div><a href="https://iiitd.ac.in/events/gisworkshop" target="_blank"><img src="./images/Training Course on Remote Sensing.jpg" title="SSH Department IIITD"/></a></div> -->
     <!--<div><a href="https://iiitd.ac.in/webstory/wpct" target="_blank"><img src="https://iiitd.ac.in/sites/default/files/images/events/wpctbanner.jpg" title="Workshop on Philosophy and Cyber-Technology, SSH Department IIITD"/></a></div> -->
     <br>
-    <div class="container" style="width: 900px; height: 50px;margin-left: 20px;">
+    <div class="container" style="width: 800px; height: 50px;margin-left: 70px;">
     
     <input type="radio" id="i1" name="images" checked />
     <input type="radio" id="i2" name="images" />
@@ -17,7 +17,7 @@
     
     <div class="slide_img" id="one">            
             
-            <img src="./gallery/1.jpeg">
+            <img src="./gallery/1.jpg">
             
                 <label class="prev" for="i5"><span>&#x2039;</span></label>
                 <label class="next" for="i2"><span>&#x203a;</span></label>  
@@ -26,7 +26,7 @@
     
     <div class="slide_img" id="two">
         
-            <img src="./gallery/2.jpg" >
+            <img src="./gallery/3.jpg" >
             
                 <label class="prev" for="i1"><span>&#x2039;</span></label>
                 <label class="next" for="i3"><span>&#x203a;</span></label>
@@ -160,7 +160,7 @@
             {
               $name = $excel->getActiveSheet()->getCell('A'.$i)->getValue();
 
-              echo "<tr><td>".$name."</td></tr>";
+              echo "<td>".$name."</td>";
               echo "
                 <tr>
                   <td><a href = ".$name."></a></td>

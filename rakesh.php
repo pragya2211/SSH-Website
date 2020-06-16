@@ -39,10 +39,11 @@
 <h2> Rakesh Chaturvedi</h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/rakeshc.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
 <p style="margin-left: 200px">Rakesh Chaturvedi completed his PhD in Economics from Pennsylvania State University in 2015.
 He uses mathematical modeling and analysis in his research. His current areas of interest are
 market design and game theory. Before his PhD, Rakesh obtained his Masters degree in Economics
-from Delhi School of Economics where he has also served as an Adjunct Lecturer.<br><br> Websie: <a href="https://sites.google.com/site/rakeshchaturvedieconomics/" style="color: #3fada8;">https://sites.google.com/site/rakeshchaturvedieconomics/</a><br><br><br><br><br><br><br></p>
+from Delhi School of Economics where he has also served as an Adjunct Lecturer.<br><br> Website: <a href="https://sites.google.com/site/rakeshchaturvedieconomics/" style="color: #3fada8;">https://sites.google.com/site/rakeshchaturvedieconomics/</a><br><br><br><br><br><br><br></p>
     <form method="post"> 
           
         <input type="submit" name="button2"

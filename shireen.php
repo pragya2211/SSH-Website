@@ -38,9 +38,9 @@
 <div class="page">
 <h2>Shireen Mirza </h2>
 <br/>
-<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/shireen.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
+<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/shireen.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong>    </p>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
 <p style="margin-left: 200px">
-Assistant Professor (SSH)
 PhD (2011), SOAS University of London, London
 Dr. Shireen Mirza is a PhD in Anthropology and Sociology from the School of Oriental and African Studies in 2011. Her areas of interest are urban anthropology, waste, ecology and technology. Previously she taught at Ambedkar University (Delhi) and at the Department of Humanities & Social Sciences at Indian Institute of Technology Madras. She also worked as a Visiting Research Fellow at the Centre for the Study of Developing Societies (New Delhi) and as a Postdoctoral Research Fellow in the 'Urban Aspirations' project at the Max Planck Institute for the Study of Religious and Ethnic Diversity (Gottingen).
 

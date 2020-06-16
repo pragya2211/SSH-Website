@@ -38,8 +38,9 @@
 <div class="page">
 <h2> Gaurav Arora </h2>
 <br/>
-<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/gaurava.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-<p style="margin-left: 200px">Assistant Professor<br>
+<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/gaurava.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong> </p>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+<p style="margin-left: 200px">
 Gaurav Arora is an applied microeconomist with specialization in natural resource
 economics, agricultural economics, applied econometrics and remote sensing. As an
 empiricist, he enjoys developing and applying econometric models to tease out causal

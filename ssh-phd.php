@@ -1,6 +1,15 @@
 <?php include ('main-header.php'); ?>
 <div class="page">
 
+	<p align="justify" style="font-size: 16px"> 
+		SSH department currently offers PhD in following two streams:
+		<ul>
+<li><a style="font-size: 16px">Sociology/Social anthropology</a></li>
+<li><a style="font-size: 16px">Economics</a></li>
+</ul>
+</p>
+
+
 <h1>Sociology/Social Anthropology</h1>
 
 

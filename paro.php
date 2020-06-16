@@ -39,7 +39,8 @@
 <h2> Paro Mishra </h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/paro.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-<p style="margin-left: 200px">Assistant Professor<br>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+<p style="margin-left: 200px">
 Dr. Paro Mishra is a Ph.D. degree holder from the Department of Humanities and Social Sciences, Indian Institute of Technology, Delhi in 2017. She pursued her postgraduate and undergraduate degree from Jawaharlal Nehru University and Lady Shri Ram College, University of Delhi, respectively. Her research broadly spans the area of demographic anthropology and is focused on understanding the consequences of sex-selective technologies on family and marriage in North India. She is the recipient of several fellowships and grants from UGC, IIT Delhi, ICSSR and the Netherlands Institute for Advanced Studies. She is currently engaged in a major research project funded by the Indian Council of Social Science Research, Delhi.<br><br><br><br></p>
     
     <form method="post"> 

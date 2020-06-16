@@ -38,8 +38,9 @@
 <div class="page">
 <h2> Nishad Patnaik </h2>
 <br/>
-<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/nishad.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-<p style="margin-left: 200px">Assistant Professor<br>
+<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/nishad.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong> </p>
+<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+<p style="margin-left: 200px">
 Nishad received his PhD in philosophy from The New School for Social Research (NSSR), New
 York, U.S.A in 2013. He holds an M.A. in philosophy from NSSR, as well as a M.A. and M.Phil. in
 philosophy from Delhi University. His dissertation work is entitled, “Time, Space and Finitude;
