@@ -17,7 +17,7 @@
     
     <div class="slide_img" id="one">            
             
-            <img src="./gallery/1.jpg">
+             <iframe src="./gallery/EconomicsPoster.pdf" style="width: 800px; height: 420px;"></iframe> 
             
                 <label class="prev" for="i5"><span>&#x2039;</span></label>
                 <label class="next" for="i2"><span>&#x203a;</span></label>  
@@ -81,7 +81,7 @@
 <div style="clear:both;"></div>
 
 <div class="newsa" style="overflow:scroll;">
-        <h1>Latest News</h1>
+        <h1 align="center">Latest News</h1>
         <div class="news_body">
         <ul>
             <p>
@@ -99,7 +99,7 @@
               echo "<tr><td>".$name."</td></tr>";
               echo "
                 <tr>
-                  <td><a href = ".$name."></a></td>
+                  <a href = ".$name."></a>
                 </tr>
               ";
               $i++;
@@ -113,7 +113,7 @@
     </div>
 	
 	<div class="newsa" style="overflow:scroll;" >
-        <h1><a href="ssh-pub.php" target="_blank" style="color:#3fada8;">Events/ Seminar Corner</a></h1>
+        <h1 align="center"><a href="ssh-pub.php" target="_blank" style="color:#3fada8;">Events/ Seminar Corner</a></h1>
         <div class="news_body">
         <ul>
             <p>
@@ -131,7 +131,7 @@
               echo "<tr><td>".$name."</td></tr>";
               echo "
                 <tr>
-                  <td><a href = ".$name."></a></td>
+                  <a href = ".$name."></a>
                 </tr>
               ";
               $i++;
@@ -145,7 +145,7 @@
     </div>
 	
 	<div class="newsa">
-        <h1><a href="https://www.iiitd.ac.in/research/publications" target="_blank" style="color:#3fada8;">Recent Publications</a></h1>
+        <h1 align="center"><a href="https://www.iiitd.ac.in/research/publications" target="_blank" style="color:#3fada8;">Recent Publications</a></h1>
         <div class="news_body">
         <ul>
             <p>
@@ -163,7 +163,7 @@
               echo "<td>".$name."</td>";
               echo "
                 <tr>
-                  <td><a href = ".$name."></a></td>
+                  <a href = ".$name."></a>
                 </tr>
               ";
               $i++;

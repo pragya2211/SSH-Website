@@ -55,16 +55,16 @@
             padding: 0;
             text-align: center;
             font-variant:small-caps;
-            border: 0.5px solid #fff;
         }
         #menu ul li:hover
         {
-            background: #95a5a6;
+            background: #aaa69d;
+            text-decoration: underline;
         }
         #menu ul ul
         {
             position: absolute;
-            background: #7f8c8d;
+            background: #84817a;
             top: 100%;
             left: 0;
             display: none;
@@ -83,6 +83,7 @@
         {
             top: 0px;
             left: 100%;
+            background: #aaa69d;
 
         }
         #menu ul li:hover > ul
@@ -100,7 +101,7 @@
         <a href="https://iiitd.ac.in"><img src="./images/iiitd-logo.png" alt="SSH-IIITD logo" /></a>
     </div>
     
-    <div class="top_links"><h1><a style="color: #3fada8" href="./index.php">Department Of Social Sciences and Humanities</a> </h1></div>
+    <div class="top_links"><h1><a style="color: #3fada8;text-decoration: none;" href="./index.php">Department Of Social Sciences and Humanities</a> </h1></div>
 
 
 
@@ -144,13 +145,7 @@
         </li>
         <li ><a href="#">Research<span>&#x25BE;</span></a>
           <ul>
-            <li><a href="#">Projects<span>&#x25B8;</span></a>
-                      <ul class="itam-2">
-                            <li><a href="ssh-ongoingprojects.php">Online Projects</a></li>
-                            <li><a href="ssh-funded_projects.php">Funded Projects</a></li>
-                            <li><a href="ssh-internal_projects.php">Internal Projects</a></li>
-                      </ul>
-                  </li>
+             
             <li><a href="ssh-pub.php">Publications</a></li>
             <li><a href="ssh-labs.php">Labs</a></li>
             

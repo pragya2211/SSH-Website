@@ -121,26 +121,22 @@ Technological research in interventions would also be explored.<br/><br/>";
     {
     	echo "
         <br><br><br>
-        <h3>Project Title:</h3>
-        <p align:'justify'>“Studying facial feature processing associated with the
-uncanny valley effect”</p>
-        <h3>Student leading the project:</h3>
-         <p align:'justify'>Ojasva Saxena<br>
+        <p align:'justify' style: 'font-size:15px;'>1) Project Title: “Studying facial feature processing associated with the
+uncanny valley effect”<br>
+         <a style:'color:#3fada8;font-size:16px;'>Student leading the project:</a>Ojasva Saxena<br>
          BTech Computer Science and Social Sciences, 4 th Sememster
          </p>
-         <br><br><br>
-         <h3>Project Title:</h3>
-        <p align:'justify'>“Neural correlates of attention in macaque visual cortex”</p>
-        <h3>Student leading the project:</h3>
-         <p align:'justify'>Bhavey Wadhwa<br>
+         <br><br>
+        <p align:'justify' style: 'font-size:15px;'><a style:'color:#3fada8'>2) Project Title:</a> “Neural correlates of attention in macaque visual cortex”<br>
+        Student leading the project:
+         Bhavey Wadhwa<br>
          BTech Computer Science and Mathematics, 4 th Sememster
          </p>
-         <br><br><br>
-         <h3>Project Title:</h3>
-        <p align:'justify'>“Studying relationship between pupil dilation and attention
-in humans”</p>
-        <h3>Student leading the project:</h3>
-         <p align:'justify'>Ishaan Arora<br>
+         <br><br>
+                 <p align:'justify' style: 'font-size:15px;'><a style:'color:#3fada8'>3) Project Title:</a> “Studying relationship between pupil dilation and attention
+in humans'<br>
+         <a style:'color:#3fada8;font-size:16px;'>Student leading the project:</a>
+        Ishaan Arora<br>
          BTech Computer Science and Engineering, 4 th Sememster
          </p>
          <br><br><br>

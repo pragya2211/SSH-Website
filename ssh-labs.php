@@ -2,22 +2,20 @@
 //require_once 'Classes/PHPExcel.php';
  ?>
  <link rel="stylesheet" type="text/css" href="./css/style.css" /> 
+ <br><br>
 <div class="page">
-	<h1>
-	Labs
-</h1> 
-
-
+<a style="color:#3fada8; font-weight:600; font-size: 30px;" target="_blank">Labs</a>
+<br><br><br>
 
 <div >
 
 <div > 
 <p style="float:left;"><strong><img alt="" src="./images/econometrics-lab.png" style="float:left;height:220px; border:1px solid; padding:2px;" /></strong></p>
 <br>
-<p align="right">
-<a href="ssh-econometrics_labs.php" style="color:#3fada8; font-weight:600; font-size: 30px" target="_blank">Econometrics Lab</a>
+<p align="left">
+<a href="ssh-econometrics_labs.php" style="color:#3fada8; font-weight:600; font-size: 30px;margin-left: 100px;" target="_blank">Econometrics Lab</a>
 </p>
-<p align="right" style="width:950px;margin-right: 1000px;font-size: 16px; word-spacing: 1.5px;"><br/>
+<p align="left" style="width:550px;margin-left: 400px;font-size: 16px; word-spacing: 1.5px;"><br/>
     The lab is meant to provide instruction in econometric methods and
 applications at undergraduate and graduate level, and to provide infrastructure for
 applied economics researchers who work with data and use tools like econometric
@@ -39,11 +37,11 @@ modeling, spatial analysis, and satellite image processing.</a>
 <div > 
 <p style="float:left;"><strong><img alt="" src="./images/econometrics-lab.png" style="float:left;height:220px; border:1px solid; padding:2px;" /></strong></p>
 <br>
-<p align="right">
-<a href="ssh-3_lab.php" style="color:#3fada8; font-weight:600; font-size: 30px" target="_blank">Lab III</a>
+<p align="left" style= "">
+<a href="https://academicwriting.herokuapp.com/" style="color:#3fada8; font-weight:600; font-size: 30px;margin-left: 100px;" target="_blank">Writing Lab</a>
 </p>
-<p align="right" style="width:950px;margin-right: 1000px;font-size: 16px; word-spacing: 1.5px;"><br/>
-    The Department of Social Science and Humanities (SSH) at the Indraprastha Institute of Information Technology (IIIT Delhi) is home to a multi-disciplinary faculty offering courses and conducting research in Economics, Sociology and Psychology and also broader areas such as Liberal Arts, Communications and the Humanities.</a>
+<p align="left" style="width:550px;margin-left: 400px;font-size: 16px; word-spacing: 1.5px;"><br/>
+  The Academic Writing Program is an important constituent of IIIT Delhi and is housed in the writing lab within the SSH department. It will primarily provide writing assistance to all University divisions, schools, and academic and administrative programs.</a>
 </p>
 </div>
 <br><br><br><br><br><br><br><br>
@@ -63,16 +61,6 @@ complementary disciplines.</a>
 </p>
 </div>
 <br><br><br><br><br>
-<div > 
-<p style="float:left;"><strong><img alt="" src="./images/econometrics-lab.png" style="float:left;height:220px; border:1px solid; padding:2px;" /></strong></p>
-<br>
-<p align="right">
-<a href="https://academicwriting.herokuapp.com/" style="color:#3fada8; font-weight:600; font-size: 30px" target="_blank">Writing Lab</a>
-</p>
-<p align="right" style="width:950px;margin-right: 1000px;font-size: 16px; word-spacing: 1.5px;"><br/>
-  The Academic Writing Program is an important constituent of IIIT Delhi and is housed in the writing lab within the SSH department. It will primarily provide writing assistance to all University divisions, schools, and academic and administrative programs.</a>
-</p>
-</div>
 </div>
 
 
