@@ -17,7 +17,7 @@
         {
             z-index: 1000;
     position: relative;
-            width: 2000px;
+    margin-left: 30px;
 
 
         }
@@ -107,19 +107,11 @@
 
     <div id = "menu">
         <ul>
-            <li><a href="./index.php">Home<span>&#x25BE;</span> </a> 
-                <ul>
-                    <li><a href = "ssh-about.php">About us</a></li>
-                  </ul>
+            <li><a href="./index.php">Home </a> 
             </li>
             <li><a href="#">People <span>&#x25BE;</span></a>
                 <ul>
-                    <li><a href="#">Faculty<span>&#x25B8;</span></a>
-                      <ul class="itam-2">
-                            <li><a href="ssh-ff.php">Full Time</a></li>
-                            <li><a href="ssh-vf.php">Visiting</a></li>
-                            <li><a href="ssh-af.php">Adjunct</a></li>
-                      </ul>
+                    <li><a href="ssh-ff.php">Faculty</a>
                   </li>
                   <li><a href="#">Students<span>&#x25B8;</span></a>
                       <ul class="itam-2">
@@ -132,6 +124,8 @@
                             <li><a href="ssh-ra.php">Teaching Fellows</a></li>
                             <li><a href="ssh-tf.php">Research Associates</a></li>
                       </ul>
+                  </li>
+                  <li><a href="ssh-of.php">Office Manager</a>
                   </li>
                     
             </ul>
