@@ -28,20 +28,21 @@ behavioral tasks.<br/><br/>
     <input type="radio" id="i2" name="images" />
     <input type="radio" id="i3" name="images" />
     <input type="radio" id="i4" name="images" />
-    <input type="radio" id="i5" name="images" />    
+    <input type="radio" id="i5" name="images" />
+        
     
     <div class="slide_img" id="one">            
             
-            <img src="./gallery/1.jpeg">
+            <img src="./gallery/CognitiveScience/2.png">
             
-                <label class="prev" for="i5"><span>&#x2039;</span></label>
+                <label class="prev" for="i7"><span>&#x2039;</span></label>
                 <label class="next" for="i2"><span>&#x203a;</span></label>  
         
     </div>
     
     <div class="slide_img" id="two">
         
-            <img src="./gallery/2.jpg" >
+            <img src="./gallery/CognitiveScience/3.jpg" >
             
                 <label class="prev" for="i1"><span>&#x2039;</span></label>
                 <label class="next" for="i3"><span>&#x203a;</span></label>
@@ -49,26 +50,30 @@ behavioral tasks.<br/><br/>
     </div>
             
     <div class="slide_img" id="three">
-            <img src="./gallery/3.jpeg">  
+            <img src="./gallery/CognitiveScience/4.jpg">  
             
                 <label class="prev" for="i2"><span>&#x2039;</span></label>
                 <label class="next" for="i4"><span>&#x203a;</span></label>
     </div>
 
     <div class="slide_img" id="four">
-            <img src="./gallery/4.jpeg"> 
+            <img src="./gallery/CognitiveScience/5.jpg"> 
             
                 <label class="prev" for="i3"><span>&#x2039;</span></label>
                 <label class="next" for="i5"><span>&#x203a;</span></label>
     </div>
 
     <div class="slide_img" id="five">
-            <img src="./gallery/5.jpeg">  
+            
+            <video width="900px" height="400px" controls>
+  <source src="./gallery/CognitiveScience/7.mp4" type="video/mp4">
             
                 <label class="prev" for="i4"><span>&#x2039;</span></label>
                 <label class="next" for="i1"><span>&#x203a;</span></label>
 
     </div>
+    
+    
 
     <div id="nav_slide">
         <label for="i1" class="dots" id="dot1"></label>
@@ -76,6 +81,7 @@ behavioral tasks.<br/><br/>
         <label for="i3" class="dots" id="dot3"></label>
         <label for="i4" class="dots" id="dot4"></label>
         <label for="i5" class="dots" id="dot5"></label>
+        
     </div>
         
 </div>

@@ -51,15 +51,15 @@
     <input type="radio" id="i4" name="images" />
     <input type="radio" id="i5" name="images" />    
     
-    <div class="slide_img" id="one">            
+   
+     <div class="slide_img" id="one">            
             
-             <img src="./gallery/1.jpg" >
+            <iframe src="./gallery/Economics.pdf#view=fitH" style="width: 880px;height: 420px;"></iframe> 
             
                 <label class="prev" for="i5"><span>&#x2039;</span></label>
                 <label class="next" for="i2"><span>&#x203a;</span></label>  
         
     </div>
-    
     <div class="slide_img" id="two">
         
             <img src="./gallery/3.jpg" >
