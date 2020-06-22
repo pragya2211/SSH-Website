@@ -78,7 +78,7 @@
         {
         	echo 
         	"
-        	<h2><p style='margin-left: 460px;'>Full Time Faculty</p></h2>
+        
         		<div id='cards-container'>
         		<div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/Manohar-Kumar.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
@@ -206,7 +206,7 @@ Research Interests: </a>Knowledge work contexts, health contexts, information se
 <p style='float:left;'><strong><img alt='' src='./images/amrit.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='amrit.php' style='color:#3fada8; font-weight:600;' target='_blank'>Amrit Srinivasan</a></h2>
-<p style='font-size: 16px;'>Assistant Professor<br>Room No. <br/>(R & D Block)<br/><br>Email: <a href='mailto:amrit@iiitd.ac.in' style='color:#3fada8;'> amrit@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. <br/>(R & D Block)<br/><br>Email: <a href='mailto:amrit@iiitd.ac.in' style='color:#3fada8;'> amrit@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
 Research Interests: </a>The comparative study of knowledge and culture; violence, civil society and the state; sustainability and lifestyle change; women's work, family and the professions; Information Technology and the Indian service economy <br><br> To view Amrit Srinivasan's profile, <a href='amrit.php' target='_blank'>click here</a></p>
 </div>
 
@@ -214,7 +214,7 @@ Research Interests: </a>The comparative study of knowledge and culture; violence
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/manohar.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='manohar_vf.php' style='color:#3fada8; font-weight:600;' target='_blank'>Manohar Khushalani</a></h2>
-<p style='font-size: 16px;'>Assistant Professor<br>Room No. B-306 <br/>(R & D Block)<br/><br>Email: <a href='mailto:manohar@iiitd.ac.in' style='color:#3fada8;'> manohar@iiitd.ac.in</a><br>Contact:011-26907492 <a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. B-306 <br/>(R & D Block)<br/><br>Email: <a href='mailto:manohar@iiitd.ac.in' style='color:#3fada8;'> manohar@iiitd.ac.in</a><br>Contact:011-26907492 <a style='color: #3fada8;'><br><br>
 Research Interests: </a>Former Director, Environment and Sociology, at the National Water Academy, Khadakwasla, & Member Secretary, National Environmental Monitoring Committee for River Valley Projects <br><br> To view Manohar Khushalani's profile, <a href='manohar_vf.php' target='_blank'>click here</a></p>
 </div>
 
@@ -222,7 +222,7 @@ Research Interests: </a>Former Director, Environment and Sociology, at the Natio
 <p style='float:left;'><strong><img alt='' src='./images/Pankaj.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='pankaj.php' style='color:#3fada8; font-weight:600;' target='_blank'>Pankaj Vajpayee</a></h2>
-<p style='font-size: 16px;'>Assistant Professor<br>Room No. B-207 <br/>(R & D Block)<br/><br>Email: <a href='mailto:pvajpayee@iiitd.ac.in' style='color:#3fada8;'> pvajpayee@iiitd.ac.in</a><br>Contact:011-2690 7515 <a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. B-207 <br/>(R & D Block)<br/><br>Email: <a href='mailto:pvajpayee@iiitd.ac.in' style='color:#3fada8;'> pvajpayee@iiitd.ac.in</a><br>Contact:011-2690 7515 <a style='color: #3fada8;'><br><br>
 Research Interests: </a>Has over 24 years of corporate experience primarily in the field of investment banking and portfolio investment advisory activities. <br><br> To view Pankaj Vajpayee's profile, <a href='pankaj.php' target='_blank'>click here</a></p>
 </div>
 
@@ -230,14 +230,14 @@ Research Interests: </a>Has over 24 years of corporate experience primarily in t
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/payel.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='payel.php' style='color:#3fada8; font-weight:600;' target='_blank'> Payel C Mukherjee</a></h2>
-<p style='font-size: 16px;'>Assistant Professor<br>Room No. A-219 <br/>(R & D Block)<br/><br>Email: <a href='mailto:payel@iiitd.ac.in' style='color:#3fada8;'> payel@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. A-219 <br/>(R & D Block)<br/><br>Email: <a href='mailto:payel@iiitd.ac.in' style='color:#3fada8;'> payel@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
 Research Interests: </a>Theories of Cosmopolitanism, Home, and History of Ideas in South Asian Studies <br><br> To view  Payel C Mukherjee's profile, <a href='payel.php' target='_blank'>click here</a></p>
 </div>
 <div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/shweta.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='shweta.php' style='color:#3fada8; font-weight:600;' target='_blank'> Shweta Singh</a></h2>
-<p style='font-size: 16px;'>Assistant Professor<br>Room No. B-306 <br/>(R & D Block)<br/><br>Email: <a href='mailto:shweta.singh@iiitd.ac.in' style='color:#3fada8;'> shweta.singh@iiitd.ac.in</a><br>Contact: 011-26907492<a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. B-306 <br/>(R & D Block)<br/><br>Email: <a href='mailto:shweta.singh@iiitd.ac.in' style='color:#3fada8;'> shweta.singh@iiitd.ac.in</a><br>Contact: 011-26907492<a style='color: #3fada8;'><br><br>
 Research Interests: </a>Theories of reasons in moral decision making, Interplay of moral particularism in Buddhist Ethics, and philosophy of critical thinking <br><br> To view  Shweta Singh's profile, <a href='shweta.php' target='_blank'>click here</a></p>
 </div>
 </div>
@@ -264,7 +264,7 @@ Research Interests: </a>Theories of reasons in moral decision making, Interplay 
 
         function button2() { 
             echo "
-            <h2><p style='margin-left: 460px;'>Full Time Faculty</p></h2>
+            
             <div id='cards-container'>
             <div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/gaurava.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
@@ -307,7 +307,7 @@ Research Interests: </a>Political economy, microfinance and economics of digital
 <p style='float:left;'><strong><img alt='' src='./images/Pankaj.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='pankaj.php' style='color:#3fada8; font-weight:600;' target='_blank'>Pankaj Vajpayee</a></h2>
-<p style='font-size: 16px;'>Assistant Professor<br>Room No. B-207 <br/>(R & D Block)<br/><br>Email: <a href='mailto:pvajpayee@iiitd.ac.in' style='color:#3fada8;'> pvajpayee@iiitd.ac.in</a><br>Contact:011-2690 7515 <a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. B-207 <br/>(R & D Block)<br/><br>Email: <a href='mailto:pvajpayee@iiitd.ac.in' style='color:#3fada8;'> pvajpayee@iiitd.ac.in</a><br>Contact:011-2690 7515 <a style='color: #3fada8;'><br><br>
 Research Interests: </a>Has over 24 years of corporate experience primarily in the field of investment banking and portfolio investment advisory activities. <br><br> To view Pankaj Vajpayee's profile, <a href='pankaj.php' target='_blank'>click here</a></p>
 </div>
 
@@ -320,7 +320,7 @@ Research Interests: </a>Has over 24 years of corporate experience primarily in t
 	    {
 	    	echo 
 	    	"
-	    	<h2><p style='margin-left: 460px;'>Full Time Faculty</p></h2>
+	    
 	    		<div id='cards-container'>
 	    		<div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/mrinmoy.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
@@ -328,13 +328,6 @@ Research Interests: </a>Has over 24 years of corporate experience primarily in t
 <h2><a href='mrinmoy.php' style='color:#3fada8; font-weight:600;' target='_blank'>Mrinmoy Chakrabarty</a></h2>
 <p style='font-size: 16px;'>Assistant Professor<br>Room No. A-202 <br/>(R & D Block)<br/><br>Email: <a href='mailto:mrinmoy@iiitd.ac.in' style='color:#3fada8;'> mrinmoy@iiitd.ac.in</a><br>Contact: 011 26907 363<a style='color: #3fada8;'><br><br>
 Research Interests: </a>Affective Cognitive Neuroscience, Visual-Spatial Cognition, Autism Spectrum Disorders, Learning-Memory<br><br> To view Mrinmoy Chakrabarty's profile, <a href='mrinmoy.php' target='_blank'>click here</a></p>
-</div>
-<div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
-<p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/nishad.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
-
-<h2><a href='nishad.php' style='color:#3fada8; font-weight:600;' target='_blank'>Nishad Patnaik</a></h2>
-<p style='font-size: 16px;'>Assistant Professor<br>Room No. A-205 <br/>(R & D Block)<br/><br>Email: <a href='mailto:nishad@iiitd.ac.in' style='color:#3fada8;'> nishad@iiitd.ac.in</a><br>Contact: 011 26907 364<a style='color: #3fada8;'><br><br>
-Research Interests: </a>Kantian transcendental Idealism, Husserlian phenomenology, Social and Political Philosophy<br><br> To view Nishad Patnaik's profile, <a href='nishad.php' target='_blank'>click here</a></p>
 </div>
 <div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/sonia.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
@@ -361,7 +354,6 @@ Research Interests: </a>Knowledge work contexts, health contexts, information se
 	    {
 	    	echo 
 	    	"
-	    	<h2><p style='margin-left: 460px;'>Full Time Faculty</p></h2>
 	    		<div id='cards-container'>
 	    		<div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
 				<p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/gayatri.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
@@ -392,7 +384,7 @@ Research Interests: </a>Waste, Anthropocene; Climate Change; Sociology of Risk, 
 Research Interests: </a>Social Media, Information Technology and Urban Middle Class, Virtual Community and Solidarity, Privacy, Surveillance and Information<br><br> To view Smriti Singh's profile, <a href='smriti.php' target='_blank'>click here</a></p>
 </div>
 
-<h2><p style='margin-left: 460px;'>Visiting Faculty</p></h2>
+<h2><p style='margin-left: 250px;'>Visiting Faculty</p></h2>
 
 <div id='cards-container'>
 
@@ -401,7 +393,7 @@ Research Interests: </a>Social Media, Information Technology and Urban Middle Cl
 <p style='float:left;'><strong><img alt='' src='./images/amrit.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='amrit.php' style='color:#3fada8; font-weight:600;' target='_blank'>Amrit Srinivasan</a></h2>
-<p style='font-size: 16px;'>Assistant Professor<br>Room No. <br/>(R & D Block)<br/><br>Email: <a href='mailto:amrit@iiitd.ac.in' style='color:#3fada8;'> amrit@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. <br/>(R & D Block)<br/><br>Email: <a href='mailto:amrit@iiitd.ac.in' style='color:#3fada8;'> amrit@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
 Research Interests: </a>The comparative study of knowledge and culture; violence, civil society and the state; sustainability and lifestyle change; women's work, family and the professions; Information Technology and the Indian service economy <br><br> To view Amrit Srinivasan's profile, <a href='amrit.php' target='_blank'>click here</a></p>
 </div>
 
@@ -411,7 +403,7 @@ Research Interests: </a>The comparative study of knowledge and culture; violence
 	    function button5()
 	    {
 	    	echo "
-	    	<h2><p style='margin-left: 460px;'>Full Time Faculty</p></h2>
+	    	
 	    	<div id='cards-container'><div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/Manohar-Kumar.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
@@ -426,6 +418,14 @@ Research Interests: </a> Ethics of digital dissent, digital citizenship, whistle
 <p style='font-size: 16px;'>Assistant Professor<br>Room No. B-202 <br/>(R & D Block)<br/><br>Email: <a href='mailto:aasim@iiitd.ac.in' style='color:#3fada8;'> aasim@iiitd.ac.in</a><br>Contact: 011 26907 463<a style='color: #3fada8;'><br><br>
 Research Interests: </a>Public sphere, Digital Citizenship and Civic Media in India.<br><br> To view Aasim Khan's profile, <a href='aasim.php' target='_blank'>click here</a></p>
 </div> 
+
+<div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
+<p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/nishad.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
+
+<h2><a href='nishad.php' style='color:#3fada8; font-weight:600;' target='_blank'>Nishad Patnaik</a></h2>
+<p style='font-size: 16px;'>Assistant Professor<br>Room No. A-205 <br/>(R & D Block)<br/><br>Email: <a href='mailto:nishad@iiitd.ac.in' style='color:#3fada8;'> nishad@iiitd.ac.in</a><br>Contact: 011 26907 364<a style='color: #3fada8;'><br><br>
+Research Interests: </a>Kantian transcendental Idealism, Husserlian phenomenology, Social and Political Philosophy<br><br> To view Nishad Patnaik's profile, <a href='nishad.php' target='_blank'>click here</a></p>
+</div>
 <div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/praveen.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
@@ -442,7 +442,7 @@ Research Interests: </a>Distinctiveness of everyday political practices in new u
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/manohar.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='manohar_vf.php' style='color:#3fada8; font-weight:600;' target='_blank'>Manohar Khushalani</a></h2>
-<p style='font-size: 16px;'>Assistant Professor<br>Room No. B-306 <br/>(R & D Block)<br/><br>Email: <a href='mailto:manohar@iiitd.ac.in' style='color:#3fada8;'> manohar@iiitd.ac.in</a><br>Contact:011-26907492 <a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. B-306 <br/>(R & D Block)<br/><br>Email: <a href='mailto:manohar@iiitd.ac.in' style='color:#3fada8;'> manohar@iiitd.ac.in</a><br>Contact:011-26907492 <a style='color: #3fada8;'><br><br>
 Research Interests: </a>Former Director, Environment and Sociology, at the National Water Academy, Khadakwasla, & Member Secretary, National Environmental Monitoring Committee for River Valley Projects <br><br> To view Manohar Khushalani's profile, <a href='manohar_vf.php' target='_blank'>click here</a></p>
 </div>
 
@@ -450,7 +450,7 @@ Research Interests: </a>Former Director, Environment and Sociology, at the Natio
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/payel.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='payel.php' style='color:#3fada8; font-weight:600;' target='_blank'> Payel C Mukherjee</a></h2>
-<p style='font-size: 16px;'>Assistant Professor<br>Room No. A-219 <br/>(R & D Block)<br/><br>Email: <a href='mailto:payel@iiitd.ac.in' style='color:#3fada8;'> payel@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. A-219 <br/>(R & D Block)<br/><br>Email: <a href='mailto:payel@iiitd.ac.in' style='color:#3fada8;'> payel@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
 Research Interests: </a>Theories of Cosmopolitanism, Home, and History of Ideas in South Asian Studies <br><br> To view  Payel C Mukherjee's profile, <a href='payel.php' target='_blank'>click here</a></p>
 </div>
 
@@ -458,7 +458,7 @@ Research Interests: </a>Theories of Cosmopolitanism, Home, and History of Ideas 
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/shweta.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='shweta.php' style='color:#3fada8; font-weight:600;' target='_blank'> Shweta Singh</a></h2>
-<p style='font-size: 16px;'>Assistant Professor<br>Room No. B-306 <br/>(R & D Block)<br/><br>Email: <a href='mailto:shweta.singh@iiitd.ac.in' style='color:#3fada8;'> shweta.singh@iiitd.ac.in</a><br>Contact: 011-26907492<a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. B-306 <br/>(R & D Block)<br/><br>Email: <a href='mailto:shweta.singh@iiitd.ac.in' style='color:#3fada8;'> shweta.singh@iiitd.ac.in</a><br>Contact: 011-26907492<a style='color: #3fada8;'><br><br>
 Research Interests: </a>Theories of reasons in moral decision making, Interplay of moral particularism in Buddhist Ethics, and philosophy of critical thinking <br><br> To view  Shweta Singh's profile, <a href='shweta.php' target='_blank'>click here</a></p>
 </div>
 

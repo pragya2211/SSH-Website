@@ -9,8 +9,10 @@
 
 <div >
 
-<div > 
-<p style="float:left;"><strong><img alt="" src="./images/econometrics-lab.png" style="float:left;height:220px; border:1px solid; padding:2px;" /></strong></p>
+<div> 
+	<a href="https://en.wikipedia.org/wiki/Econometrics">
+<p style="float:left;"><strong><img alt="" src="./images/econometrics_lab.png" style="float:left;height:220px; border:1px solid; padding:2px;" /></strong></p>
+</a>
 <br>
 <p align="left">
 <a href="ssh-econometrics_labs.php" style="color:#3fada8; font-weight:600; font-size: 30px;margin-left: 100px;" target="_blank">Econometrics Lab</a>

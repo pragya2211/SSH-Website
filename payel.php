@@ -38,56 +38,25 @@
 <div class="page">
 <h2>Payel C Mukherjee</h2>
 <br/>
-<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/payel.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-<p style="margin-left: 200px">
-Assistant Professor (SSH)</p>
-    
-    <form method="post"> 
-        <input type="submit" name="button2"
-                class="button" value="Publications" />
+<p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/payel.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong>  </p>
+ <p style="margin-left: 200px">Dr Payel Chattopadhyay Mukherjee’s work focuses on Cosmopolitanism, Home, Colonial and
+Postcolonial Literature, Indian Nationalism, Women and Gender, History of Ideas, and South Asian
+Studies. She has written for several scholarly publications including Routledge Research in
+Postcolonial Literatures, South Asian Review, Journal of Human Values, Sahitya Akademi, Gandhi
+Marg to name a few, and has presented her research at academic forums like The European
+Association for Commonwealth Literature and Language Studies (EACLALS), The South Asian
+Literary Association (SALA), Association for Asian Studies (AAS, USA) and Canadian
+Association for Commonwealth Literature and Language Studies (CACLALS). Currently, she is a
+faculty member at the SSH department of IIIT Delhi and an adjunct professor at the Dept of
+English, University of Saskatchewan, Canada. She can be reached
+at  <a href="mailto:payel@iiitd.ac.in" style="color:#3fada8;">payel@iiitd.ac.in</a>
+<p style="margin-left: 200px; ">Office: A-219, R & D Building<br>
+Phone: 011-26907-354
+</p>
+<p style="margin-left: 200px; ">
+Link to the webpage: <a style="color:#3fada8;" href="payelcmukh.wordpress.com"> payelcmukh.wordpress.com </a></p>
 
-        <input type="submit" name="button3"
-                class="button" value="Courses" /> 
-        <input type="submit" name="button4"
-                class="button" value="Research Projects" />
-        <input type="submit" name="button5"
-                class="button" value="Events" />
-    </form> 
-
-<?php
-        if(array_key_exists('button2', $_POST)) { 
-            button2(); 
-        } 
-        else if(array_key_exists('button3', $_POST)) { 
-            button3(); 
-        }
-        else if(array_key_exists('button4', $_POST)) { 
-            button4(); 
-        }
-        else if(array_key_exists('button5', $_POST)) { 
-            button5(); 
-        }
-        
-        function button2() { 
-            echo ""; 
-        } 
-
-    function button3()
-    {
-    	echo "<br/><br/><br/><br/><br/>";
-
-    }
-    function button4()
-    {
-    	echo "";
-    }
-    function button5()
-    {
-    	echo "";
-    }
-    ?>
-
-
+ 
 
 
 
