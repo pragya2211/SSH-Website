@@ -142,8 +142,7 @@ function resumeDiv() {
 <br>
 <body onLoad="scrollDiv_init()">
 	<h2 style="position: absolute;margin-left: 710px;">Latest news</h2>
-	<br><br><br>
-<div id="MyDivName" style="overflow:auto;width:300px;height:350px; position: absolute;margin-left: 640px;" onMouseOver="pauseDiv()" onMouseOut="resumeDiv()">
+<div id="MyDivName" style="overflow:auto;width:300px;height:350px; position: absolute;margin-left: 640px; margin-top: 50px;" onMouseOver="pauseDiv()" onMouseOut="resumeDiv()">
 
 An abstract of Sumedha Shukla has been selected "The Role of Formal and Informal Rural Credit on Crop Yield Distributions and Downside Risk" in INSEE-CESS International Conference.<br><br>
 
@@ -156,6 +155,17 @@ Our Faculty member, Manohar Kumar's book titled, 'Speaking Truth to Power. A The
 Seminar on Repeated Coordination with Private Learning<br><br>
 
 Seminar on Hinduism for a Secular State
+
+</div>
+	<h2 style="position: absolute;margin-left: 680px; margin-top: 450px;">Events/Seminars Corner</h2>
+	<br><br>
+<div id="MyDivName2" style="overflow:auto;width:300px;height:350px; position: absolute;margin-left: 640px; margin-top: 490px;" onMouseOver="pauseDiv()" onMouseOut="resumeDiv()">
+
+Dr. Paro Mishra (in collaboration with the Department of Humanities and Social Sciences, IIT, Delhi and Department of Liberal Arts, IIT, Hyderabad) organised an International Conference on 'Reproduction, Demography and Cultural Anxieties in India and China in the 21st Century' on 20-21 February, 2020. The event was funded by UNFPA, PFI, ICSSR, AJWS. Details available at<a href="http://tiny.cc/u4c8iz"> http://tiny.cc/u4c8iz </a><br><br>
+
+Seminar by Prof Kalyan Chatterjee, Distinguished Professor of Economics and Management Science at the Pennsylvania State University, USA. The talk is scheduled on June 6, 2019 (Thursday) from 03:00 - 4:30 pm. <a href="https://ssh.iiitd.ac.in/images/Poster_Prof_Kalyan_Chatterjee.pdf">Read More >></a><br><br>
+
+Seminar by Dr. Jeevant Rampal, Assistant Professor in the economics area at the Indian Institute of Management, Ahmedabad. The talk is scheduled on March 28, 2019 (Thursday) from 4:00 pm to 5:30 pm. <a href="https://ssh.iiitd.ac.in/images/Poster_Dr_Jeevant_Rampal.pdf">Read More >></a><br><br>
 
 </div>
 </body>
