@@ -16,7 +16,7 @@
 	form input[type="submit"]
 	{
 		font-size:15px;
-		width:180px;
+		width:220px;
 		height:40px;
 		background:#3fada8;
 		float: left;
@@ -48,7 +48,7 @@
                 class="button" value="Economics" />
 
         <input type="submit" name="button3"
-                class="button" value="Psychology" /> 
+                class="button" value="Cognitive Science" /> 
         <input type="submit" name="button4"
                 class="button" value="Sociology" />
         <input type="submit" name="button5"
