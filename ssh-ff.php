@@ -11,7 +11,7 @@
 	}
 	form input[value ="Economics"]
 	{
-		margin-left: 100px;
+		margin-left: 30px;
 	}
 	form input[type="submit"]
 	{
