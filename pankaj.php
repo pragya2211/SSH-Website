@@ -40,9 +40,16 @@
 <h2> Pankaj Vajpayee </h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="./images/Pankaj.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
-<h3 style="margin-left: 200px; ">Assistant Professor</h3>
+<h3 style="margin-left: 200px; ">Visiting Faculty</h3>
 <p style="margin-left: 200px">27 years’ experience in Investment Banking and Investment Advisory. Had earlier worked with
-companies like SBI Capital Markets, Dabur Group, Onida group and India Infoline Group.<br><br><br>
+companies like SBI Capital Markets, Dabur Group, Onida group and India Infoline Group.<br><br>
+Has taught various finance courses at IIM Raipur, IIM Indore, IIFT Delhi and Kolkata, MDI
+Gurgaon, IMI Delhi, Department of Financial Studies and College of Business Studies at
+University of Delhi.<br><br>
+Has conducted various MDPs for the employees of Standard Chartered Bank, Met Life
+Insurance, HDFC Bank, DBS Bank, APEDA, MMTC,STC, Indian Oil, ONGC, GAIL, Power
+Grid, CIDC etc.</p>
+<p>
 Experience in the following areas:<br><br>
 <br>-> Investment Banking including Issue management (managed over 25 IPOs)
 <br>-> Asset Securitisation

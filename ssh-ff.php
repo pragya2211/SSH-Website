@@ -11,7 +11,6 @@
 	}
 	form input[value ="Economics"]
 	{
-		margin-left: 30px;
 	}
 	form input[type="submit"]
 	{
@@ -152,7 +151,7 @@ Research Interests: </a>Distinctiveness of everyday political practices in new u
 
 <h2><a href='rakesh.php' style='color:#3fada8; font-weight:600;' target='_blank'>Rakesh Chaturvedi</a></h2>
 <p style='font-size: 16px;'>Assistant Professor<br>Room No. B-205 <br/>(R & D Block)<br/><br>Email: <a href='mailto:rakesh@iiitd.ac.in' style='color:#3fada8;'> rakesh@iiitd.ac.in</a><br>Contact: 011 26907 570<a style='color: #3fada8;'><br><br>
-Research Interests: </a>Communication and Cooperation in Games, Political Economy and Market Design<br><br> To view Rakesh Chaturvedi's profile, <a href='rakesh.php' target='_blank'>click here</a></p>
+Research Interests: </a>Microeconomic Theory and Game Theory<br><br> To view Rakesh Chaturvedi's profile, <a href='rakesh.php' target='_blank'>click here</a></p>
 </div>
 
 <div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
@@ -222,15 +221,15 @@ Research Interests: </a>Former Director, Environment and Sociology, at the Natio
 <p style='float:left;'><strong><img alt='' src='./images/Pankaj.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='pankaj.php' style='color:#3fada8; font-weight:600;' target='_blank'>Pankaj Vajpayee</a></h2>
-<p style='font-size: 16px;'>Visiting Faculty<br>Room No. B-207 <br/>(R & D Block)<br/><br>Email: <a href='mailto:pvajpayee@iiitd.ac.in' style='color:#3fada8;'> pvajpayee@iiitd.ac.in</a><br>Contact:011-2690 7515 <a style='color: #3fada8;'><br><br>
-Research Interests: </a>Has over 24 years of corporate experience primarily in the field of investment banking and portfolio investment advisory activities. <br><br> To view Pankaj Vajpayee's profile, <a href='pankaj.php' target='_blank'>click here</a></p>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. B-308-3(a) <br/>(R & D Block)<br/><br>Email: <a href='mailto:pvajpayee@iiitd.ac.in' style='color:#3fada8;'> pvajpayee@iiitd.ac.in</a><br>Contact:011-2690 7515 <a style='color: #3fada8;'><br><br>
+Research Interests: </a>Has over 27 years of corporate experience primarily in the field of investment banking and portfolio investment advisory activities. <br><br> To view Pankaj Vajpayee's profile, <a href='pankaj.php' target='_blank'>click here</a></p>
 </div>
 
 <div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/payel.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='payel.php' style='color:#3fada8; font-weight:600;' target='_blank'> Payel C Mukherjee</a></h2>
-<p style='font-size: 16px;'>Visiting Faculty<br>Room No. A-219 <br/>(R & D Block)<br/><br>Email: <a href='mailto:payel@iiitd.ac.in' style='color:#3fada8;'> payel@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. A-219 <br/>(R & D Block)<br/><br>Email: <a href='mailto:payel@iiitd.ac.in' style='color:#3fada8;'> payel@iiitd.ac.in</a><br>Contact: 011-26907-354<a style='color: #3fada8;'><br><br>
 Research Interests: </a>Theories of Cosmopolitanism, Home, and History of Ideas in South Asian Studies <br><br> To view  Payel C Mukherjee's profile, <a href='payel.php' target='_blank'>click here</a></p>
 </div>
 <div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
@@ -285,7 +284,7 @@ Research Interests: </a>Microeconomics, game theory, industrial organization, en
 
 <h2><a href='rakesh.php' style='color:#3fada8; font-weight:600;' target='_blank'>Rakesh Chaturvedi</a></h2>
 <p style='font-size: 16px;'>Assistant Professor<br>Room No. B-205 <br/>(R & D Block)<br/><br>Email: <a href='mailto:rakesh@iiitd.ac.in' style='color:#3fada8;'> rakesh@iiitd.ac.in</a><br>Contact: 011 26907 570<a style='color: #3fada8;'><br><br>
-Research Interests: </a>Communication and Cooperation in Games, Political Economy and Market Design<br><br> To view Rakesh Chaturvedi's profile, <a href='rakesh.php' target='_blank'>click here</a></p>
+Research Interests: </a>Microeconomic Theory and Game Theory<br><br> To view Rakesh Chaturvedi's profile, <a href='rakesh.php' target='_blank'>click here</a></p>
 </div>
 
 <div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
@@ -307,8 +306,8 @@ Research Interests: </a>Political economy, microfinance and economics of digital
 <p style='float:left;'><strong><img alt='' src='./images/Pankaj.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='pankaj.php' style='color:#3fada8; font-weight:600;' target='_blank'>Pankaj Vajpayee</a></h2>
-<p style='font-size: 16px;'>Visiting Faculty<br>Room No. B-207 <br/>(R & D Block)<br/><br>Email: <a href='mailto:pvajpayee@iiitd.ac.in' style='color:#3fada8;'> pvajpayee@iiitd.ac.in</a><br>Contact:011-2690 7515 <a style='color: #3fada8;'><br><br>
-Research Interests: </a>Has over 24 years of corporate experience primarily in the field of investment banking and portfolio investment advisory activities. <br><br> To view Pankaj Vajpayee's profile, <a href='pankaj.php' target='_blank'>click here</a></p>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. B-308-3(a) <br/>(R & D Block)<br/><br>Email: <a href='mailto:pvajpayee@iiitd.ac.in' style='color:#3fada8;'> pvajpayee@iiitd.ac.in</a><br>Contact:011-2690 7515 <a style='color: #3fada8;'><br><br>
+Research Interests: </a>Has over 27 years of corporate experience primarily in the field of investment banking and portfolio investment advisory activities. <br><br> To view Pankaj Vajpayee's profile, <a href='pankaj.php' target='_blank'>click here</a></p>
 </div>
 
 
@@ -450,7 +449,7 @@ Research Interests: </a>Former Director, Environment and Sociology, at the Natio
 <p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/payel.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='payel.php' style='color:#3fada8; font-weight:600;' target='_blank'> Payel C Mukherjee</a></h2>
-<p style='font-size: 16px;'>Visiting Faculty<br>Room No. A-219 <br/>(R & D Block)<br/><br>Email: <a href='mailto:payel@iiitd.ac.in' style='color:#3fada8;'> payel@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. A-219 <br/>(R & D Block)<br/><br>Email: <a href='mailto:payel@iiitd.ac.in' style='color:#3fada8;'> payel@iiitd.ac.in</a><br>Contact:011-26907-354 <a style='color: #3fada8;'><br><br>
 Research Interests: </a>Theories of Cosmopolitanism, Home, and History of Ideas in South Asian Studies <br><br> To view  Payel C Mukherjee's profile, <a href='payel.php' target='_blank'>click here</a></p>
 </div>
 
