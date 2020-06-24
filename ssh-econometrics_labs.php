@@ -90,7 +90,12 @@ modeling, spatial analysis, and satellite image processing.
     {
         echo "<br><br><br><u><b>Applied Econometric Analysis (AEA) Blog</b></u><br><br>This blog contains interesting India-centric applied econometrics applications that
 were compiled by the students and research affiliates of IIIT-Delhi, often as term
-papers and project reports.";
+papers and project reports.<br>
+<h3><a href = 'aea_winter2020.php' style = 'color:#3fada8'>Inequality and Environmental Outcomes</a></h3>
+Undergraduate research as part of Econometrics I (ECO 221), Winter 2020<br>
+For more details, <a href = 'aea_winter2020.php'>click here</a>
+    
+";
     }
     function button4()
     {
