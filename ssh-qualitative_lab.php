@@ -11,7 +11,8 @@
     }
     form input[type="submit"]
     {
-        margin-left: 250px;
+        margin-left: 630px;
+        align-self: right;
         font-size:15px;
         width:300px;
         height:40px;
@@ -32,10 +33,28 @@
         font-variant: small-caps;
 
     }
+
+    .alignleft 
+    {
+        float: left;
+    }
+    .alignright 
+    {
+        float: right;
+    }
+    a: hover
+    {
+        text-decoration: underline;
+    }
 </style>
 <div class="page">
 <div class="welcome">
-       <h1> <br/>Cognitive Science Lab</h1>
+        <div id="textbox">
+  <p class="alignleft" style="color: #3fada8; font-size: 170%; font-style: small-caps;">Cognitive Science Lab</p>
+  <p class="alignright" style="font-size: 140%; font-style: small-caps;"><a href="ssh-cogscproj.php" style="color: #3fada8; font-style: small-caps;">Current Projects</a></p>
+</div>
+<br><br>
+
         <p align="justify"><br/>Cognitive Science is the study of the mind and intelligence, and shares rich
 interdisciplinarity across Psychology, Neuroscience, Computer Science, Linguistics,
 Anthropology, Philosophy, Education and Media Studies. The overarching goals of
@@ -122,51 +141,7 @@ behavioral tasks.<br/><br/>
 
 
 
-   <form method="post"> 
-          
-        
-
-        <input type="submit" name="button3"
-                class="button" value="Current Projects" /> 
-    </form> 
-
-<?php
-        
-       
-        if(array_key_exists('button3', $_POST)) { 
-            button3(); 
-        }
-        
-        
-
-    function button3()
-    {
-        echo "
-        <br><br><br>
-            <p style = 'font-size:15px;'>
-            <a style = 'color:#3fada8'>Project Title</a>: “Studying facial feature processing associated with the uncanny valley effect”<br><br>
-
-        <a style = 'color:#3fada8'>Principle Investigator</a>: Dr. Sonia Baloni Ray, Social Science and Humanities Department<br><br>
-
-        <a style = 'color:#3fada8'>Co-Principal Investigator</a>: Dr. Jainendra Shukla, Computer Science and Engineering, Human Centered Design<br><br>
- <a style = 'color:#3fada8'>Student leading the project</a>: Ojasva Saxena, BTech Computer Science and Social Sciences, 4th Sememster<br><br>
-
-        <a style = 'color:#3fada8'> Abstract</a>:
- Facial expressions are widely used for interpersonal communication as they reflect the internal affective or emotional state of an individual. We are highly dependent upon facial cues (expressions) in judging affective state of people around us, which therefore drive our level of social interactions with them. For e.g. if we are looking for an address and are lost, there are more chance that we approach an individual with a smile on his face for directions as compared to an individual with a frown. Gaze monitoring studies have shown emotion specific fixations in facial features like eyes & mouth, with initial fixation starting from upper nose region (Schrugin et al, 2014).<Br>
-
-With an advent of technology our social interactions are no more restricted to humans but have been extended to androids also, which are programmed to imitate and portray human emotions. Human androids are widely used in many places as a substitute to perform variety of human tasks.  Mori, 1970 showed that humans respond to android change as a function of their feature similarity to humans and is popularly known as the ‘Uncanny Valley effect’. This project aims to perform a comparative study of gaze fixation between human and android facial features to understand the mechanism of the ‘Uncanny Valley effect’.
-<div> 
-
-<p style='float:left;'><strong><iframe alt='' src='./gallery/CognitiveScience/studyposter.pdf#view=FitH' style='float:left;height:360px;width:470px; border:1px solid; padding:2px; margin-left: 150px;' /></strong></iframe></p>
-
-<br>
-</div>
-
-    
-";
-    }
-    ?>
-
+   
 
 	<?php include ('main-footer.php'); ?>
 </div><!--page content End-->
