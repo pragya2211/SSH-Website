@@ -38,11 +38,40 @@
 <div class="page">
 <h2> Amrit Srinivasan </h2>
 <br/>
-<p style="float:center; "><strong><img alt="" src="./images/amrit.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong><br>     </p>
+<p style="float:center; "><strong><img alt="" src="./images/amrit.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong>     </p>
 <h3 style="margin-left: 200px; ">Visiting Faculty</h3>
-<p style="margin-left: 200px"><br>
-The comparative study of knowledge and culture; violence, civil society and the state; sustainability and lifestyle change; women's work, family and the professions; Information Technology and the Indian service economy.</p>
-<br><br><br><br><br>
+<p style="margin-left: 200px">
+    PhD, University of Cambridge, UK<br><br>
+Prof Amrit Srinivasan joined the Institute as Visiting Professor in sociology/social anthropology in
+2016. Earlier, she served as Professor and Head of the Department of Humanities &amp; Social
+Sciences at The Indian Institute of Technology Delhi (1992 -2014). This long association led to
+an innovative teaching and research career which questioned mainstream social science with
+ideas drawn from art, technology and design. Most recently, she has contributed to the
+formulation of Computer Science and Social Science (CSSS) - an innovative new undergraduate
+degree programme at IIIT-D. On the research front, she has trained doctoral students from
+science and technology disciplines in the critical use of ethnographic and local knowledge
+methods.<br>
+Prof Srinivasan promotes ethnography in the search for real life, policy solutions to the problem
+of unsustainable consumption in India. She has been invited Expert for the Sustainable Summer
+Schools organized by European design institutions and research universities / think tanks in
+Cologne and Barcelona (2013 and 2014). Today, she partners with them from IIIT-D, on an
+international project Sustainable Lifestyles Accelerator (SLA) (2018-21). The online web
+platform/mobile App SUSLA to be launched by SLA, will use gamification tools to calculate the
+unique footprints of individuals and households and encourage them to volunteer for change,
+through actions that reduce energy consumption.<br><br>
+While still at IIT Delhi, Prof Srinivasan partnered on the European Commission project LeNS, the
+Learning Network on Sustainability which disseminated learning materials to European and
+Asian institutions through a web platform. She co-edited and contributed to the much-cited LeNS
+project volume, Product Service System Design for Sustainability, brought out by Greenleaf and
+later Taylor &amp; Francis (2017).<br><br>
+Prof Srinivasan received the prestigious Tagore National Fellowship for Cultural Research Award
+in recognition of her work on Feminine Professionalism in the Classical Indian Performing Arts
+(2015-17). Knowledge Tradition Text, her edited volume on the latter, promoting theoretical,
+multidisciplinary approaches, was published by Sangeet Natak Akademi in 2007. In 2010, she
+was nominated to represent women on the MHA GOI’s National Integration Council. In 2009, she
+was deputed ICCR’s Visiting Professor at Tel Aviv University’s East Asian Studies Department,
+Israel. Earlier she was the recipient of the Commonwealth Scholarship Award, the Shastri Indo-
+Canadian Fellowship and the Charles Wallace Fellowship Awards.</p>
     
     <form method="post"> 
           

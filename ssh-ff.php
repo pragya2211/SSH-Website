@@ -205,8 +205,9 @@ Research Interests: </a>Knowledge work contexts, health contexts, information se
 <p style='float:left;'><strong><img alt='' src='./images/amrit.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='amrit.php' style='color:#3fada8; font-weight:600;' target='_blank'>Amrit Srinivasan</a></h2>
-<p style='font-size: 16px;'>Visiting Faculty<br>Room No. <br/>(R & D Block)<br/><br>Email: <a href='mailto:amrit@iiitd.ac.in' style='color:#3fada8;'> amrit@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
-Research Interests: </a>The comparative study of knowledge and culture; violence, civil society and the state; sustainability and lifestyle change; women's work, family and the professions; Information Technology and the Indian service economy <br><br> To view Amrit Srinivasan's profile, <a href='amrit.php' target='_blank'>click here</a></p>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. A-404 <br/>(R & D Block)<br/><br>Email: <a href='mailto:amrit@iiitd.ac.in' style='color:#3fada8;'> amrit@iiitd.ac.in</a><br>Contact: 011-26907491 <a style='color: #3fada8;'><br><br>
+Research Interests: </a>Design ethnography, the performing arts, knowledge society, social diversity, culture &amp; lifestyle
+studies. <br><br> To view Amrit Srinivasan's profile, <a href='amrit.php' target='_blank'>click here</a></p>
 </div>
 
 <div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
@@ -251,6 +252,14 @@ Research Interests: </a>Theories of reasons in moral decision making, Interplay 
 
 <h2><a href='' style='color:#3fada8; font-weight:600;' target='_blank'> Atreyee Bhattacharya</a></h2>
 <p style='font-size: 16px;'><br>Email: <a href='mailto:atreyee.bhattacharya@colorado.edu' style='color:#3fada8;'>atreyee.bhattacharya@colorado.edu</a><br><br>Website: <a href='https://atreyeebhattacharya.typepad.com/atreyee_bhattacharya/' style='color:#3fada8 '>https://atreyeebhattacharya.typepad.com/atreyee_bhattacharya/</a><br><br><a style='color: #3fada8;'>Research Interests: </a> Climate variability of arid and semi-arid regions, historical climate, paleoclimate, coastal erosion using corals and microplastic accumulation in coastal environments. <br><br></p>
+</div>
+
+<div class='card rteleft facultycard' style='height:200px; width:1000px;'> 
+<p style='float:left;'><strong><img alt='' src='./images/shriramv.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
+
+<h2><a href='' style='color:#3fada8; font-weight:600;' target='_blank'>Shriram Venkatraman</a></h2>
+<p style='font-size: 16px;'>PhD (2017)<br> University College, London<br><br><a style='color: #3fada8;'>Research Interests: </a> Technologies in work places, organisational culture, and entrepreneurship <br><br></p>
+</div>
 </div>
 
 
@@ -311,6 +320,27 @@ Research Interests: </a>Has over 27 years of corporate experience primarily in t
 </div>
 
 
+</div>
+
+
+<h2><p style='margin-left: 460px;'>Adjunct Faculty</p></h2>
+
+<div id='cards-container'>
+
+
+<div class='card rteleft facultycard' style='height:260px; width:1000px;'> 
+<p style='float:left;'><strong><img alt='' src='https://www.iiitd.ac.in/sites/default/files/images/faculty/atreyee.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
+
+<h2><a href='' style='color:#3fada8; font-weight:600;' target='_blank'> Atreyee Bhattacharya</a></h2>
+<p style='font-size: 16px;'><br>Email: <a href='mailto:atreyee.bhattacharya@colorado.edu' style='color:#3fada8;'>atreyee.bhattacharya@colorado.edu</a><br><br>Website: <a href='https://atreyeebhattacharya.typepad.com/atreyee_bhattacharya/' style='color:#3fada8 '>https://atreyeebhattacharya.typepad.com/atreyee_bhattacharya/</a><br><br><a style='color: #3fada8;'>Research Interests: </a> Climate variability of arid and semi-arid regions, historical climate, paleoclimate, coastal erosion using corals and microplastic accumulation in coastal environments. <br><br></p>
+</div>
+
+<div class='card rteleft facultycard' style='height:200px; width:1000px;'> 
+<p style='float:left;'><strong><img alt='' src='./images/shriramv.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
+
+<h2><a href='' style='color:#3fada8; font-weight:600;' target='_blank'>Shriram Venkatraman</a></h2>
+<p style='font-size: 16px;'>PhD (2017)<br> University College, London<br><br><a style='color: #3fada8;'>Research Interests: </a> Technologies in work places, organisational culture, and entrepreneurship <br><br></p>
+</div>
 </div>
             "; 
         } 
@@ -392,8 +422,9 @@ Research Interests: </a>Social Media, Information Technology and Urban Middle Cl
 <p style='float:left;'><strong><img alt='' src='./images/amrit.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
 
 <h2><a href='amrit.php' style='color:#3fada8; font-weight:600;' target='_blank'>Amrit Srinivasan</a></h2>
-<p style='font-size: 16px;'>Visiting Faculty<br>Room No. <br/>(R & D Block)<br/><br>Email: <a href='mailto:amrit@iiitd.ac.in' style='color:#3fada8;'> amrit@iiitd.ac.in</a><br>Contact: <a style='color: #3fada8;'><br><br>
-Research Interests: </a>The comparative study of knowledge and culture; violence, civil society and the state; sustainability and lifestyle change; women's work, family and the professions; Information Technology and the Indian service economy <br><br> To view Amrit Srinivasan's profile, <a href='amrit.php' target='_blank'>click here</a></p>
+<p style='font-size: 16px;'>Visiting Faculty<br>Room No. A-404 <br/>(R & D Block)<br/><br>Email: <a href='mailto:amrit@iiitd.ac.in' style='color:#3fada8;'> amrit@iiitd.ac.in</a><br>Contact: 011-26907491 <a style='color: #3fada8;'><br><br>
+Research Interests: </a>Design ethnography, the performing arts, knowledge society, social diversity, culture &amp; lifestyle
+studies. <br><br> To view Amrit Srinivasan's profile, <a href='amrit.php' target='_blank'>click here</a></p>
 </div>
 
 				</div>
