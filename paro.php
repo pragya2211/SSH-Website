@@ -142,12 +142,12 @@ sociological understanding of the world we inhabit.<br/><br/><br/>
     }
     function button4()
     {
-    	echo "<br/><br/><br/><b><i><u>IP supervision:</i></u><br><br><br> i)Monsoon 2019, Analysing Behaviour of Female Politicians on Twitter.<br><br>
-            ii)Winter 2020, Sampann: A Well-being App.
+    	echo "<br/><br/><br/><b><i><u>IP supervision:</i></u><br><br><br> i)Monsoon 2019, Analysing Behaviour of Female Politicians on Twitter.(Tanya Kapur & Sankalp Agarwal)<br><br>
+            ii)Winter 2020, Sampann: A Well-being App.(Rohan Gurve)
         <br/><br/><br><br>
 
 <b><i><u>BTP supervision:</b></u></i><br/><br/><br/>
-i)Monsoon 2019, fINC<br><br>";
+i)Monsoon 2019, fINC (Shashwat Malik)<br><br>";
     }
     function button5()
     {
