@@ -51,7 +51,15 @@
 <div class="welcome">
         <div id="textbox">
   <p class="alignleft" style="color: #3fada8; font-size: 170%; font-style: small-caps;">Cognitive Science Lab</p>
-  <p class="alignright" style="font-size: 140%; font-style: small-caps;"><a href="ssh-cogscproj.php" style="color: #3fada8; font-style: small-caps;">Current Projects</a></p>
+  <p class="alignright" style="font-size:15px;
+        width:100px;
+        height:40px;
+        background-color:#3fada8;
+        cursor: pointer;
+        border: 1px solid #fff;
+        font-style: small-caps;
+        text-align: center;
+        "><a href="ssh-cogscproj.php" style="color: white; font-style: small-caps;">Current Projects</a></p>
 </div>
 <br><br>
 
