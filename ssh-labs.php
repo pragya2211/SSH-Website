@@ -26,7 +26,7 @@ modeling, spatial analysis, and satellite image processing.</a>
 </div>
 <br><br><br><br><br><br><br><br>
 <div>
-    <p style="float:right;"><strong><img alt="" src="./images/econometrics-lab.png" style="float:right;height:220px; border:1px solid; padding:2px;" /></strong></p>
+	<p style="float:right;"><strong><iframe src="./images/gmt.pdf" style="float:right;height:220px; border:1px solid; padding:2px;"></iframe> </strong></p>
 <br>
 <p align="left">
 <a href="ssh-gametheory_lab.php" style="color:#3fada8; font-weight:600; font-size: 30px" target="_blank">Game Theory Lab</a>
