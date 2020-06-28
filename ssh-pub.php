@@ -1,40 +1,66 @@
 <?php include ('main-header.php'); ?>
 <div class="page">
-	<h3>Content Under Revision</h3>
-<!---<div class="newsa" style="overflow:scroll;">
-        <h1>Latest News</h1>
+	
+<h1>Publications</h1>
+<div class="newsa" style="overflow:scroll;">
+        <h1>2020</h1>
         <div class="news_body">
         <ul>
 <p>
 			<?php
-			/*require_once 'Classes/PHPExcel.php';
+			require_once 'Classes/PHPExcel.php';
 
-			$excel = PHPExcel_IOFactory::load('seminars.xlsx');
+			$excel = PHPExcel_IOFactory::load('publications_2020.xlsx');
 			$excel->setActiveSheetIndex(0);
 			echo "<table borders>";
-			$i = 2;
+			$i = 1;
 			while($excel->getActiveSheet()->getCell('A'.$i)->getValue()!= "")
 			{
 			  $name = $excel->getActiveSheet()->getCell('A'.$i)->getValue();
-			  $name1 = $excel->getActiveSheet()->getCell('B'.$i)->getValue();
-			  $name2 = $excel->getActiveSheet()->getCell('C'.$i)->getValue();
-			  $name3 = $excel->getActiveSheet()->getCell('D'.$i)->getValue();
 			  echo "
 			    <tr>
-			      <td><a ".$name." </a></td>
-			      <td><a ".$name1." </a></td>
-			      <td><a ".$name2." </a></td>
-			      <td><a ".$name3." </a></td>
+			      <td> ".$name." </td>
 			    </tr>
 			  ";
 			  $i++;
 			}
 
-			echo "</table borders>";*/
+			echo "</table borders>";
 			?>
 		</p>
 	</ul>
-</div>--->
+</div>
+</div>
+
+
+<div class="newsa" style="overflow:scroll;">
+        <h1>Before 2020</h1>
+        <div class="news_body">
+        <ul>
+<p>
+			<?php
+			require_once 'Classes/PHPExcel.php';
+
+			$excel = PHPExcel_IOFactory::load('publications_before2020.xlsx');
+			$excel->setActiveSheetIndex(0);
+			echo "<table borders>";
+			$i = 1;
+			while($excel->getActiveSheet()->getCell('A'.$i)->getValue()!= "")
+			{
+			  $name = $excel->getActiveSheet()->getCell('A'.$i)->getValue();
+			  echo "
+			    <tr>
+			      <td> ".$name." </td>
+			    </tr>
+			  ";
+			  $i++;
+			}
+
+			echo "</table borders>";
+			?>
+		</p>
+	</ul>
+</div>
 </div>
 
 
