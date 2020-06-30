@@ -37,7 +37,7 @@ modeling, spatial analysis, and satellite image processing.</a>
 </div>
 <br><br><br><br><br><br><br><br>
 <div > 
-<p style="float:left;"><strong><img alt="" src="./images/awl_logo.png" style="float:left;height:220px; border:1px solid; padding:2px;" /></strong></p>
+<p style="float:left;"><strong><img alt="" src="./images/awl_logo.jpg" style="float:left;height:220px; border:1px solid; padding:2px;" /></strong></p>
 <br>
 <p align="left" style= "">
 <a href="https://academicwriting.herokuapp.com/" style="color:#3fada8; font-weight:600; font-size: 30px;margin-left: 100px;" target="_blank">Writing Lab</a>
