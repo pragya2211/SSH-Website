@@ -46,15 +46,12 @@
 <div class="container" style="width: 880px; height: 50px;">
     
     <input type="radio" id="i1" name="images" checked />
-    <input type="radio" id="i2" name="images" />
-    <input type="radio" id="i3" name="images" />
-    <input type="radio" id="i4" name="images" />
-    <input type="radio" id="i5" name="images" />    
+    <input type="radio" id="i2" name="images" />   
     
      <div class="slide_img" id="one">            
             <iframe src="./gallery/Economics.pdf#view=fitH" style="width: 880px;height: 420px;"></iframe>
             
-                <label class="prev" for="i5"><span>&#x2039;</span></label>
+                <label class="prev" for="i2"><span>&#x2039;</span></label>
                 <label class="next" for="i2"><span>&#x203a;</span></label>  
         
     </div>
@@ -63,38 +60,15 @@
             <img src="./gallery/3.jpg" >
             
                 <label class="prev" for="i1"><span>&#x2039;</span></label>
-                <label class="next" for="i3"><span>&#x203a;</span></label>
+                <label class="next" for="i1"><span>&#x203a;</span></label>
         
     </div>
             
-    <div class="slide_img" id="three">
-            <img src="./gallery/3.jpeg">  
-            
-                <label class="prev" for="i2"><span>&#x2039;</span></label>
-                <label class="next" for="i4"><span>&#x203a;</span></label>
-    </div>
 
-    <div class="slide_img" id="four">
-            <img src="./gallery/4.jpeg"> 
-            
-                <label class="prev" for="i3"><span>&#x2039;</span></label>
-                <label class="next" for="i5"><span>&#x203a;</span></label>
-    </div>
-
-    <div class="slide_img" id="five">
-            <img src="./gallery/5.jpeg">  
-            
-                <label class="prev" for="i4"><span>&#x2039;</span></label>
-                <label class="next" for="i1"><span>&#x203a;</span></label>
-
-    </div>
 
     <div id="nav_slide">
         <label for="i1" class="dots" id="dot1"></label>
         <label for="i2" class="dots" id="dot2"></label>
-        <label for="i3" class="dots" id="dot3"></label>
-        <label for="i4" class="dots" id="dot4"></label>
-        <label for="i5" class="dots" id="dot5"></label>
     </div>
         
 </div>
@@ -142,17 +116,21 @@ function resumeDiv() {
 	<h2 style="position: absolute;margin-left: 710px;">Latest news</h2>
 <div id="MyDivName" style="overflow:auto;width:300px;height:350px; position: absolute;margin-left: 640px; margin-top: 50px;" onMouseOver="pauseDiv()" onMouseOut="resumeDiv()">
 
+On 7th February, 2020, Dr. Paro Mishra presented a paper at the 'Economy and Society in India' Seminar at The Centre for Development Studies, Trivandrum Kerala.<br><br>
+
+On 21st February, 2020, Dr. Paro Mishra presented a paper at the International Conference on 'Reproduction, Demography and Cultural Anxieties in India and China in the 21st Century' at IIT, Delhi.<br><br>
+
+On the 29th Jan 2020, Dr. Gayatri Nair presented a paper at the Indian Association of Women's Studies Conference titled 'Gender, Sustainability and Identity: Responses to Technology and the Future of Work'.<br><br>
+
+On the May 17th, Dr. Kiriti Kanjilal presented a paper titled Endogenous Equity in Cournot Competition:<a href="http://semen.buaa.edu.cn/info/1006/14555.htm"> Welfare Analysis and Policy at Beihang University, Beijing</a><br><br>
+
 An abstract of Sumedha Shukla has been selected "The Role of Formal and Informal Rural Credit on Crop Yield Distributions and Downside Risk" in INSEE-CESS International Conference.<br><br>
 
 A paper by Dr Manohar Kumar titled 'Understanding emerging forms of dissent. Civil Disobedience or Uncivil Action?' has been accepted for presentation at the 11th International Conference on Applied Ethics to be held on December 15 and 16, 2018, University of Kyoto, Japan.<br><br>
 
 Paper titled, "Understanding Health Literacy through the lens of Phronesis: The Case of Coronary Artery Disease Patients" authored by Dr. Venkata Ratnadeep Suri (Faculty, IIIT-D) co-authored by the faculty of Wee Kim Wee School of Communication and Information, Nanyang Technological University; (Shaheen Majid, Schubert Foo, Dumaual Sibal, Trinity Hannah, Yun Ke Chang) was presented at European Conference on Information Literacy (ECIL 2018) held in Oulu, Finland, from 24th - 27th September, 2018<br><br>
 
-Our Faculty member, Manohar Kumar's book titled, 'Speaking Truth to Power. A Theory of Whistleblowing' co-authored with Daniele Santoro, has been published by Springer (2018).<br><br>
-
-Seminar on Repeated Coordination with Private Learning<br><br>
-
-Seminar on Hinduism for a Secular State
+Our Faculty member, Manohar Kumar's book titled, 'Speaking Truth to Power. A Theory of Whistleblowing' co-authored with Daniele Santoro, has been published by Springer (2018). Whistleblowing is the public disclosure of information with the purpose of revealing wrongdoings and abuses of power that harm the public interest. This book presents a comprehensive theory of whistleblowing: it defines the concept, reconstructs its origins, discusses it within the current ethical debate, and elaborates a justification of unauthorized disclosures.
 
 </div>
 	<h2 style="position: absolute;margin-left: 680px; margin-top: 450px;">Events/Seminars Corner</h2>

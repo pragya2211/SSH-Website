@@ -17,7 +17,7 @@
         {
             z-index: 1000;
     position: relative;
-    margin-left: 30px;
+    margin-left: 10px;
 
 
         }
@@ -46,7 +46,7 @@
         }
         #menu ul li
         {
-            width: 160px;
+            width: 165px;
             height: 40px;
             line-height: 45px;
             float: left;

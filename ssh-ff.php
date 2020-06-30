@@ -3,6 +3,7 @@
 <style>
 	form
 	{
+		margin-left: 40px;
 		width:  1500px;
 		padding: 15px 32px;
 		display: block;

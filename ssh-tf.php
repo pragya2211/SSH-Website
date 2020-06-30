@@ -14,7 +14,7 @@
 </style>
 
 
-<h1><p style="margin-left: 460px;">Research Associate</p></h1>
+<h1><p style="margin-left: 460px;">Research Associates</p></h1>
 
 <div id="cards-container">
 
