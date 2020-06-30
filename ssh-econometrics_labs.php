@@ -99,15 +99,35 @@ For more details, <a href = 'aea_winter2020.php'>click here</a>
     }
     function button4()
     {
-        echo "<br><br><br>1) Agricultural risk management on small farms.<br><br>
-2)Farmer’s perceptions and their roles in agricultural production decisions.";
+        echo "<br><br><br>
+        <ul>
+        <li>Agricultural risk management on small farms.</li>
+        <li>Farmer’s perceptions and their roles in agricultural production decisions.</li>
+        <li>Optimal Grassland Easement Acquisition (Survival Models and Optimization-based Simulations)</li>
+<li>Climate perceptions and land use decisions (Ordered Logit Models)</li>
+<li>Characterize and comprehend agricultural land use change in Indo-Gangetic plains (Spatial Econometric Models)</li>
+<li>Agricultural risk management on small farms (Beta Regression Models and Quasi-experimental Techniques)
+Behavioral characteristics of smallholder farmers (Applied Statistical Analysis of Data Generated from Economic Experiments)</li>
+<li>Optimal Groundwater management (Spatial Statistics and Microeconometric Modeling)</li>
+<li>Towards a new paradigm to characterize climate resilience using long-term colonial archival data (Fuzzy Logic Applications and Regression Analysis)</li>
+</ul>
+";
     }
     function button5()
     {
-        echo "<br><br><br><strong><h3>Lab Coordinator :</strong></h3><br><a style: font-size = 13px;> Gaurav Arora</a><br><br>
-        <b><h3>Associates:</h3></b><br>
-1) Saif Ali (Economics PhD student)<br><br>
-2) Sumedha Shukla (Research Associate)";
+        echo "<br><br><br><strong><h3>Lab Coordinator :</strong></h3>
+        <ul>
+        <li>
+        Gaurav Arora
+        </li>
+        <li>
+        Souvik Dutta
+        </li>
+        </ul>
+        <b><h3>Associates:</h3></b>
+        <ul>
+        <li>Saif Ali (Economics PhD student)</li>
+        <li>Sumedha Shukla (Research Associate)</li> ";
     }
     ?>
 
