@@ -261,6 +261,14 @@ Research Interests: </a>Theories of reasons in moral decision making, Interplay 
 <h2><a href='' style='color:#3fada8; font-weight:600;' target='_blank'>Shriram Venkatraman</a></h2>
 <p style='font-size: 16px;'>PhD (2017)<br> University College, London<br><br><a style='color: #3fada8;'>Research Interests: </a> Technologies in work places, organisational culture, and entrepreneurship <br><br></p>
 </div>
+
+<div class='card rteleft facultycard' style='height:200px; width:1000px;'> 
+<p style='float:left;'><strong><img alt='' src='./images/kmpathi.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
+
+<h2><a href='' style='color:#3fada8; font-weight:600;' target='_blank'>K M Pathi</a></h2>
+<p style='font-size: 16px;'>An alumnus of Delhi University, visiting faculty to NCGG-Delhi<br><br><a style='color: #3fada8;'>Research Interests: </a> Behavior Change Communication, Communication Ethics.<br><br></p>
+</div>
+
 </div>
 
 
@@ -492,7 +500,17 @@ Research Interests: </a>Theories of Cosmopolitanism, Home, and History of Ideas 
 <p style='font-size: 16px;'>Visiting Faculty<br>Room No. B-306 <br/>(R & D Block)<br/><br>Email: <a href='mailto:shweta.singh@iiitd.ac.in' style='color:#3fada8;'> shweta.singh@iiitd.ac.in</a><br>Contact: 011-26907492<a style='color: #3fada8;'><br><br>
 Research Interests: </a>Theories of reasons in moral decision making, Interplay of moral particularism in Buddhist Ethics, and philosophy of critical thinking <br><br> To view  Shweta Singh's profile, <a href='shweta.php' target='_blank'>click here</a></p>
 </div>
+</div>
 
+<h2><p style='margin-left: 460px;'>Adjunct Faculty</p></h2>
+
+<div id='cards-container'>
+<div class='card rteleft facultycard' style='height:200px; width:1000px;'> 
+<p style='float:left;'><strong><img alt='' src='./images/kmpathi.jpg' style='float:left;height:150px; border:1px solid; padding:2px;' /></strong></p>
+
+<h2><a href='' style='color:#3fada8; font-weight:600;' target='_blank'>K M Pathi</a></h2>
+<p style='font-size: 16px;'>An alumnus of Delhi University, visiting faculty to NCGG-Delhi<br><br><a style='color: #3fada8;'>Research Interests: </a> Behavior Change Communication, Communication Ethics.<br><br></p>
+</div>
 
 
 </div>
