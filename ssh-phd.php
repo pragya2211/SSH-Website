@@ -35,7 +35,7 @@
 <div class="page">
 
 	<p align="justify" style="font-size: 16px"> 
-		SSH department currently offers PhD in following two streams:
+		SSH department currently offers Ph.D. in following two streams:
 		<ul>
 <li><a style="font-size: 16px">Sociology/Social anthropology</a></li>
 <li><a style="font-size: 16px">Economics</a></li>
@@ -59,7 +59,7 @@
             <h1>Sociology/Social Anthropology</h1>
 
 
-IIIT–Delhi offers PhD in Sociology/Social Anthropology with a focus on following <strong>research
+IIIT–Delhi offers Ph.D. in Sociology/Social Anthropology with a focus on following <strong>research
 areas:</strong>
 <br><br>
 Information Communication Technologies; Privacy and Surveillance;  Gig Economy;  Smart
@@ -68,7 +68,7 @@ Politics; Infrastructure Studies; Environment; Waste and Pollution; Urban E-wast
 Ecology; Anthropocene; Precarious Caste; Class; Labour; Gender; Childhood; Inequality;
 Civility, Migration and Transnationalism; Demographic Anthropology; Kinship Studies
 <br><br>
-The curriculum for PhD programs in Sociology and Social Anthropology is designed to
+The curriculum for Ph.D. programs in Sociology and Social Anthropology is designed to
 strengthen fundamentals in theory and research methods through Core/Compulsory courses
 and provide sufficient scope to cultivate critical and innovative thinking through Independent
 Studies and Seminar style courses.  The aim is to impart training to conduct high quality
@@ -107,24 +107,24 @@ Preference will also be given to those who have cleared either NET/JRF or SLET.
 <h3>Coursework requirement:</h3>
 
 <ul>
-<li>PhD students will be required to complete 32 credits of PhD level coursework.
+<li>Ph.D. students will be required to complete 32 credits of Ph.D. level coursework.
 Students who enter after an MPhil will need to complete a minimum of 24 credits
 
 (implying a waiver of maximum 8 credits). This waiver in coursework may only be
 provided with the permission from the thesis advisor and the dissertation committee.</li>
 <li>In addition, students are required to complete 56 research credits.</li>
-<li>500-level courses (or higher) will be considered towards the PhD program. However,
+<li>500-level courses (or higher) will be considered towards the Ph.D. program. However,
 students may be allowed to take at most two advanced undergraduate courses (300-
 level or higher) with the permission of the thesis advisor and PGC.</li>
-<li>Maximum of 2 Independent Study courses are allowed to be counted towards PhD
-credits. Independent Project credits are disallowed for PhD program in Social
+<li>Maximum of 2 Independent Study courses are allowed to be counted towards Ph.D.
+credits. Independent Project credits are disallowed for Ph.D. program in Social
 Sciences and Humanities disciplines.</li>
 <li>Specialized coursework in addition to the general requirements above. Students are
 expected to compulsorily take three courses - Research Methods in
 Sociology/Anthropology, Theories in Sociology/Anthropology and
 Sociology/Anthropology of India worth 12 credits in total.</li>
 <li>The total of 32 course credits will be divided as 16 credits for Courses and 16 credits
-for PhD level research seminar style classes (where research papers are intensively
+for Ph.D. level research seminar style classes (where research papers are intensively
 discussed by the course instructor).</li>
 <li>Students are encouraged to actively audit any related courses other than those
 expected for credit coursework with the permission of the thesis adviser.</li>
@@ -136,7 +136,7 @@ expected for credit coursework with the permission of the thesis adviser.</li>
             echo "<br><br><br>
             <h1>Economics</h1>
 
-IIIT–Delhi offers PhD in Economics with focus on
+IIIT–Delhi offers Ph.D. in Economics with focus on
 <ul>
 	<li>Industrial Organization</li>
 	<li>Behavioural Economics</li>
@@ -170,26 +170,26 @@ the norms.
 <h3>Coursework requirement:</h3>
 
 <ul>
-<li>PhD students will be required to complete 32 credits of PhD level coursework.
+<li>Ph.D. students will be required to complete 32 credits of Ph.D. level coursework.
 Students who enter after an MPhil will need to complete a minimum of 24 credits
 (implying a waiver of maximum 8 credits). This waiver in coursework may only be
 provided with the permission from the thesis advisor and the dissertation committee.</li>
 <li>In addition, students are required to complete 56 research credits</li>
-<li>500-level courses (or higher) will be considered towards the PhD program.
+<li>500-level courses (or higher) will be considered towards the Ph.D. program.
 However, students may be allowed to take at most two advanced undergraduate
 courses (300-level or higher) with the permission of the thesis advisor and the PGC.</li>
-<li>Maximum of 2 Independent Study courses are allowed to be counted towards PhD
+<li>Maximum of 2 Independent Study courses are allowed to be counted towards Ph.D.
 credits.</li>
 </ul>
 
-<p align='justify' style='font-size: 16px;'><b>Applications for admission to the PhD program are invited for the regular
+<p align='justify' style='font-size: 16px;'><b>Applications for admission to the Ph.D. program are invited for the regular
 academic cycle as well as on rolling basis. For more information please contact
 the department manager,<a href='mailto:binoj@iiitd.ac.in'> binoj@iiitd.ac.in</a></b></p>
 <ul>
 	<li>Candidates can apply only through the online application portal. There is no
 provision for offline submission of application forms.</li>
 <li>UGC-JRF qualified candidates are strongly encouraged to apply.</li>
-<li>There is no application fee for PhD program.</li>"; 
+<li>There is no application fee for Ph.D. program.</li>"; 
         }
         else
         {

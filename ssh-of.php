@@ -22,7 +22,7 @@
 
 
 <div class="card rteleft facultycard" style="height:200px; width:900px;"> 
-<p style="float:left;"><strong><img alt="" src="./images/binoj.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
+<p align="justify"><strong><img alt="" src="./images/binoj.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
 
 <h2><a style="color:#3fada8; font-weight:600;" target="_blank">Binoj Baby</a></h2>
 <p style="font-size: 16px;">Junior Manager (SSH)<br>Room No. B-201<br/>(R & D Block)<br/><br>Email: <a href="mailto:binoj@iiitd.ac.in" style="color:#3fada8;"> binoj@iiitd.ac.in</a><br>Contact: +91 11 2690 7497 <a style="color: #3fada8;"><br><br>

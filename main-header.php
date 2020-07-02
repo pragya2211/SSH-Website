@@ -115,8 +115,8 @@
                   </li>
                   <li><a href="#">Students<span>&#x25B8;</span></a>
                       <ul class="itam-2">
-                            <li><a href="ssh-btech_students.php">Btech Students</a></li>
-                            <li><a href="ssh-phd_students.php">PHD Students</a></li>
+                            <li><a href="ssh-btech_students.php">B.Tech. Students</a></li>
+                            <li><a href="ssh-phd_students.php">Ph.D. Students</a></li>
                         </ul>
                     </li>
                     <li><a href="#">Members<span>&#x25B8;</span></a>
@@ -134,7 +134,7 @@
           <ul>
             <li><a href="ssh-btech.php">Undergraduate</a></li>
             <li><a href="ssh-courses.php">Courses</a></li>
-            <li><a href="ssh-phd.php">PHD</a></li>
+            <li><a href="ssh-phd.php">Ph.D.</a></li>
           </ul>
         </li>
         <li ><a href="#">Research<span>&#x25BE;</span></a>

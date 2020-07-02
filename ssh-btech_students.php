@@ -9,7 +9,7 @@
 
 .alignleft {border-radius: 8px;}
 </style>
-<h1>Btech Students</h1>
+<h1>B.Tech. Students</h1>
 
 <div id="cards-container">
 

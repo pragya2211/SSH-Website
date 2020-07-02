@@ -165,7 +165,7 @@ Institute. This unique B.Tech in CSSS, aims to develop cross-disciplinary IT kno
 in students, very much in demand in the academia and industry. The courses offered within CSSS
 program also provides to students specializing in other programs offered in the Institute and therefore
 constitutes an integral part of academic planning and structure. For post-graduate studies SSH offers
-PhD in Economics and Sociology/Social Anthropology. The department houses a wide range of
+Ph.D. in Economics and Sociology/Social Anthropology. The department houses a wide range of
 laboratories like Econometrics, Game theory and cognitive science, enriched in facilities providing a
 platform for research in these areas. </p>
 

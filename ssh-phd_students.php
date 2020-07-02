@@ -14,12 +14,12 @@
 </style>
 
 
-<h1><p style="margin-left: 460px;">PHD Students</p></h1>
+<h1><p style="margin-left: 460px;">Ph.D. Students</p></h1>
 
 <div id="cards-container">
 
 <div class="card rteleft facultycard" style="height:260px; width:1000px;">
-<p style="float:center;"><strong><img alt="" src="./images/saif.jpeg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
+<p align="justify"><strong><img alt="" src="./images/saif.jpeg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
 <p style="width:1000px;"><a style="color:#3fada8; font-weight:600;" target="_blank">Saif Ali</a><br/>(Economics PhD student)<br> January 2018 – Present </a><br><br>
 	Email: <a href="mailto:saifa@iiitd.ac.in" style="color:#3fada8;">saifa@iiitd.ac.in</a><br>Supervisor: <a style="color: #3fada8;" href="mailto:gaurav@iiitd.ac.in">Dr. Gaurav Arora </a><br><br>Saif Ali is a transplant to academics from the Silicon Valley where he worked in the 3D graphics industry
 for 10 years. He studied computer science and engineering at Arizona State University (M.S), and Jamia Millia Islamia,

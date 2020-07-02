@@ -19,7 +19,7 @@
 <div id="cards-container">
 
 <div class="card rteleft facultycard" style="height:260px; width:1000px;">
-<p style="float:center;"><strong><img alt="" src="./images/Sumedha.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
+<p align="justify"><strong><img alt="" src="./images/Sumedha.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
 <p style="width:1000px;"><a style="color:#3fada8; font-weight:600;" target="_blank">Sumedha Shukla</a><br/>Research Associate<br> Econometrics Lab @ IIIT Delhi </a><br><br>
 	Email: <a href="mailto:sumedhas@iiitd.ac.in" style="color:#3fada8;">sumedhas@iiitd.ac.in</a><br>Supervisor: <a style="color: #3fada8;" href="mailto:gaurav@iiitd.ac.in">Dr. Gaurav Arora </a><br><br> Sumedha is a Research Associate in the Department of Social Sciences and Humanities (Economics
 Division) at IIIT-D. She completed her MSc. Economics from TERI School of Advanced Studies with a specialization
@@ -30,7 +30,7 @@ economics courses and spends her spare time cooking and singing.</p>
 </div>
 
 <div class="card rteleft facultycard" style="height:260px; width:1000px;">
-<p style="float:center;"><strong><img alt="" src="./images/ranjini.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
+<p align="justify" ><strong><img alt="" src="./images/ranjini.jpg" style="float:left;height:150px; border:1px solid; padding:2px;" /></strong></p>
 <p style="width:1000px;"><a style="color:#3fada8; font-weight:600;" target="_blank">Dr. Ranjini Ray</a><br/>Research Associate<br> Econometrics Lab @ IIIT Delhi </a><br><br>
 	Email: <a href="mailto:ranjiniray@yahoo.co.in" style="color:#3fada8;">ranjiniray@yahoo.co.in</a><br>Supervisor: <a style="color: #3fada8;" href="mailto:gaurav@iiitd.ac.in">Dr. Gaurav Arora </a><br><br>Dr. Ranjini Ray is currently working on the susceptibility of semi arid tracks in peninsular India to climate
 shocks such as droughts and floods. Her work is about how climate variability plays a major role in climate shocks and
